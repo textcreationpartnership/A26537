@@ -1,0 +1,3399 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Æsop naturaliz'd and expos'd to the publick view in his own shape and dress by way of essay on a hundred fables.</title>
+            <title>Aesop's fables. English. Selections.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 107 KB of XML-encoded text transcribed from 60 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26537</idno>
+            <idno type="STC">Wing A744</idno>
+            <idno type="STC">ESTC R5796</idno>
+            <idno type="EEBO-CITATION">12379160</idno>
+            <idno type="OCLC">ocm 12379160</idno>
+            <idno type="VID">60669</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26537)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60669)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 267:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Æsop naturaliz'd and expos'd to the publick view in his own shape and dress by way of essay on a hundred fables.</title>
+                  <title>Aesop's fables. English. Selections.</title>
+                  <author>Aesop.</author>
+               </titleStmt>
+               <extent>[8], 111 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Hayes for Edward Hall ...</publisher>
+                  <pubPlace>Cambridge [England] :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fables.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60669:1" rendition="simple:additions"/>
+            <pb facs="tcp:60669:1" rendition="simple:additions"/>
+            <p>Aeſop Naturaliz'd AND EXPOS'D TO THE PUBLICK VIEW IN HIS Own Shape and Dreſs.</p>
+            <p>By way of Eſſay on a hundred Fables.</p>
+            <q>Quid rides? mutato Nomine de Te Fabula narratur—<bibl>
+                  <hi>Hor, Sat. I.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>CAMBRIDGE,</hi> Printed by <hi>John Hayes,</hi> for <hi>Edward Hall</hi> Book<g ref="char:EOLhyphen"/>ſeller there. 1697.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:60669:2" rendition="simple:additions"/>
+            <pb facs="tcp:60669:2"/>
+            <head>PREFACE.</head>
+            <lg>
+               <l>AS Nature fram'd <hi>Aeſop</hi> like Puppet ſhow Punch,</l>
+               <l>With Paunch ſticking out &amp; a back in a Bunch</l>
+               <l>And gave his Wit ſhapes more fit for a Fool,</l>
+               <l>Splay feet and bow legs all meer ridicule;</l>
+               <l>That ſo ſhe might better Spectators ſurprize,</l>
+               <l>By making 'em hardly believe their own eyes:</l>
+               <l>So following Nature, we try to expreſs</l>
+               <l>The wit of the Author in Scaramouch dreſs;</l>
+               <l>That Bruits who pretend to Ratiocination,</l>
+               <l>The Dull Bruits, and Lewd Bruits, all Bruits in the Nation;</l>
+               <l>May find ſome reſemblance in this little Century,</l>
+               <l>Of which turn but over you'l ſee an Inventory.</l>
+            </lg>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:60669:3"/>
+            <pb facs="tcp:60669:3"/>
+            <head>THE CONTENTS OF THE FABLES.</head>
+            <list>
+               <item>
+                  <hi>THE Kingdom of</hi> Apes FAB. 8</item>
+               <item>
+                  <hi>The</hi> Ape <hi>and the</hi> Fox 41</item>
+               <item>
+                  <hi>The</hi> Ape, Mole <hi>and</hi> Aſs 83</item>
+               <item>
+                  <hi>The</hi> Aſs <hi>and</hi> Frogs 60</item>
+               <item>
+                  <hi>The</hi> Aſs <hi>and</hi> Man 76</item>
+               <item>
+                  <hi>The</hi> Aſs <hi>and</hi> Nightingale 64</item>
+               <item>
+                  <hi>The</hi> Axle-Tree <hi>and</hi> Oxen 57</item>
+               <item>
+                  <hi>The</hi> Bee <hi>and</hi> Bear 5</item>
+               <item>
+                  <hi>The</hi> Bear <hi>and</hi> Fox 50</item>
+               <item>
+                  <hi>The</hi> Bitch <hi>big with young</hi> 79</item>
+               <item>
+                  <hi>The</hi> Cat <hi>and</hi> Cock 14</item>
+               <item>
+                  <hi>The</hi> Cat Sow <hi>and</hi> Eagle 35</item>
+               <item>
+                  <hi>The</hi> Cat <hi>and</hi> Mice 61</item>
+               <item>
+                  <hi>The</hi> Clown <hi>and</hi> Bee 26</item>
+               <item>
+                  <hi>The</hi> Clown <hi>and</hi> Flys 52</item>
+               <item>
+                  <hi>The</hi> Cock and <hi>Fox</hi> 18</item>
+               <item>
+                  <hi>The</hi> Cock <hi>and</hi> Precious Stone 1</item>
+               <item>The <hi>Couetous</hi> Man <hi>and</hi> Orchard 22</item>
+               <item>
+                  <hi>The</hi> Crab <hi>and her</hi> Daughter 9</item>
+               <pb facs="tcp:60669:4"/>
+               <item>
+                  <hi>The</hi> Crab <hi>and</hi> Serpent 46</item>
+               <item>
+                  <hi>The</hi> Cuckow <hi>and little</hi> Birds 16</item>
+               <item>
+                  <hi>The</hi> Devil <hi>and</hi> Sinner 66</item>
+               <item>
+                  <hi>The</hi> Dog <hi>and</hi> Sow 7</item>
+               <item>
+                  <hi>The</hi> Dog <hi>and</hi> Shaddow 20</item>
+               <item>
+                  <hi>The</hi> Dogs <hi>and</hi> Jupiter 38</item>
+               <item>
+                  <hi>The</hi> Dog <hi>and</hi> Aſs 88</item>
+               <item>
+                  <hi>The</hi> Dog. Aſs <hi>and</hi> Wolf 58</item>
+               <item>
+                  <hi>The</hi> Drunkard <hi>and his</hi> Wife 49</item>
+               <item>
+                  <hi>The Dying</hi> Eagle 85</item>
+               <item>
+                  <hi>The</hi> Eagle, Daw <hi>and</hi> Tortoiſe 36</item>
+               <item>
+                  <hi>The</hi> Farmer <hi>and</hi> Weaſel 30</item>
+               <item>
+                  <hi>The</hi> Farmer <hi>and his</hi> Dog 71</item>
+               <item>
+                  <hi>The</hi> Farmer <hi>and</hi> Oxen 96</item>
+               <item>
+                  <hi>The</hi> Fly <hi>and</hi> Pot 24</item>
+               <item>
+                  <hi>The</hi> Fly <hi>and</hi> Ant 81</item>
+               <item>
+                  <hi>The</hi> Fowler <hi>and</hi> Partridge 86</item>
+               <item>
+                  <hi>The</hi> Fox <hi>and</hi> Crow 25</item>
+               <item>
+                  <hi>The</hi> Fox <hi>and</hi> Stork 28</item>
+               <item>
+                  <hi>The</hi> Fox <hi>and</hi> Crane 31</item>
+               <item>
+                  <hi>The</hi> Fox <hi>and</hi> Eagle 33</item>
+               <item>
+                  <hi>The</hi> Fox <hi>and</hi> Cock 89</item>
+               <item>
+                  <hi>The</hi> Fox, Wolf <hi>and</hi> Ape 21</item>
+               <item>
+                  <hi>The</hi> Fox <hi>and</hi> Wolf 99</item>
+               <item>
+                  <hi>The</hi> Frogs <hi>and</hi> Sun 82</item>
+               <item>
+                  <hi>The</hi> Gardner <hi>and</hi> Dog 51</item>
+               <item>
+                  <hi>The</hi> Gnat <hi>and</hi> Bee 63</item>
+               <item>
+                  <hi>The</hi> Gnat <hi>and</hi> Bull 10</item>
+               <item>
+                  <hi>The</hi> Gooſe <hi>and</hi> Goſlin 4</item>
+               <item>
+                  <hi>The</hi> Gnat <hi>and</hi> Lion 56</item>
+               <pb facs="tcp:60669:4"/>
+               <item>
+                  <hi>The</hi> Goat <hi>and</hi> Fox 37</item>
+               <item>
+                  <hi>The</hi> Goats <hi>and</hi> Jupiter. 84</item>
+               <item>
+                  <hi>The</hi> Hare <hi>and</hi> Sparrow 80</item>
+               <item>
+                  <hi>The</hi> Hart <hi>and</hi> Fountain 44</item>
+               <item>
+                  <hi>The</hi> Hawks <hi>and</hi> Pigeons 17</item>
+               <item>
+                  <hi>The</hi> Hawk <hi>and</hi> Cuckow 98</item>
+               <item>
+                  <hi>The</hi> Hound <hi>and other</hi> Dogs 53</item>
+               <item>
+                  <hi>The</hi> Horſe <hi>and</hi> Hog 97</item>
+               <item>
+                  <hi>The Partial</hi> Judge 46</item>
+               <item>Jupiter <hi>and the</hi> Tortoiſe 91</item>
+               <item>
+                  <hi>The</hi> Image <hi>to be ſold</hi> 95</item>
+               <item>
+                  <hi>The Sick</hi> Kite <hi>and her</hi> Mother 42</item>
+               <item>
+                  <hi>The Mad</hi> Lion 19</item>
+               <item>
+                  <hi>The</hi> Lion <hi>and other Beaſts</hi> 54</item>
+               <item>
+                  <hi>The Sick</hi> Lion, Fox <hi>and</hi> Wolf 74</item>
+               <item>
+                  <hi>The</hi> Lion <hi>grown Old</hi> 92</item>
+               <item>
+                  <hi>The</hi> Lark <hi>and her Young Ones</hi> 72</item>
+               <item>
+                  <hi>The</hi> Mountebank <hi>and</hi> Bear 11</item>
+               <item>
+                  <hi>The</hi> Mouſe <hi>and</hi> Lion 13</item>
+               <item>
+                  <hi>The</hi> Moon <hi>and her</hi> Taylor 15</item>
+               <item>
+                  <hi>The City</hi> Mouſe <hi>and Country</hi> Mouſe 39</item>
+               <item>
+                  <hi>The</hi> Magpy <hi>and</hi> Eagle 23</item>
+               <item>
+                  <hi>The</hi> Mole <hi>and her</hi> Daughter 59</item>
+               <item>
+                  <hi>The</hi> Monkey <hi>and</hi> Cat 73</item>
+               <item>
+                  <hi>The</hi> Mouſe <hi>and</hi> Frog 90</item>
+               <item>
+                  <hi>The</hi> Monkey <hi>and</hi> Walnuts 94</item>
+               <item>Momus <hi>and</hi> Jupiter 100</item>
+               <item>
+                  <hi>The</hi> Old Man <hi>and his Two</hi> Wives 34</item>
+               <item>
+                  <hi>The</hi> Old Man <hi>and</hi> Death 62</item>
+               <item>
+                  <hi>The</hi> Old Man, <hi>his</hi> Son <hi>and</hi> Aſs 65</item>
+               <pb facs="tcp:60669:5"/>
+               <item>
+                  <hi>The</hi> Owl <hi>and the</hi> Sun 2</item>
+               <item>
+                  <hi>The</hi> Parrot <hi>and other Birds</hi> 77</item>
+               <item>
+                  <hi>The</hi> Pye <hi>and the</hi> Pigeon 87</item>
+               <item>
+                  <hi>The</hi> Pilot <hi>and</hi> Merchant 27</item>
+               <item>
+                  <hi>The</hi> Projector <hi>and the</hi> Aſs 29</item>
+               <item>
+                  <hi>The</hi> Shepherd <hi>and</hi> Dog 93</item>
+               <item>
+                  <hi>The Dull</hi> Schoolboy 55</item>
+               <item>
+                  <hi>The</hi> Snake <hi>and</hi> Hedghog 68</item>
+               <item>
+                  <hi>The Diſobedient</hi> Son <hi>and his</hi> Child 78</item>
+               <item>
+                  <hi>The</hi> 'Squire <hi>and his</hi> Dogs 48</item>
+               <item>
+                  <hi>The</hi> Sun <hi>and</hi> North wind 45</item>
+               <item>
+                  <hi>The</hi> Town <hi>in danger of a Siege</hi> 6</item>
+               <item>
+                  <hi>The</hi> Toad <hi>and</hi> Ox 3</item>
+               <item>
+                  <hi>The</hi> Trumpeter 43</item>
+               <item>
+                  <hi>The</hi> Viper <hi>and</hi> File 32</item>
+               <item>
+                  <hi>The</hi> Widdow <hi>and</hi> Widdower 12</item>
+               <item>
+                  <hi>The</hi> Wolf <hi>and</hi> Porcupine 67</item>
+               <item>
+                  <hi>The</hi> Woman <hi>and</hi> Death 70</item>
+               <item>
+                  <hi>The</hi> Worm <hi>and the</hi> Fox 69</item>
+               <item>
+                  <hi>The</hi> Wolf <hi>and</hi> Lamb 75</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:60669:5"/>
+            <head>Aeſop Naturaliz'd.</head>
+            <div n="1" type="fable">
+               <head>FAB. I. <hi>The</hi> Cock <hi>and</hi> Precious Stone.</head>
+               <lg>
+                  <l>A Cock for his living that ſcrap't in a dunghill,</l>
+                  <l>Had the fortune to meet with a ſhining car<g ref="char:EOLhyphen"/>bunkle,</l>
+                  <l>He turn'd it, and ſpurn'd it, and thought, looking round it</l>
+                  <l>How happy a Jeweller were to ha' found it;</l>
+                  <l>To me ſays the Cock it does wonderful ſeem</l>
+                  <l>How ſo uſeleſs a thing ſhou'd be had in eſteem:</l>
+                  <l>Had I both the <hi>Indies,</hi> twou'd be my opinion</l>
+                  <l>A little good barley was worth my dominion.</l>
+               </lg>
+               <lg>
+                  <pb n="2" facs="tcp:60669:6"/>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>WHat's needful and uſeful that pleaſes the wiſe;</hi>
+                  </l>
+                  <l>
+                     <hi>But vain ſhow and glitter allures a fools eyes.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>ANOTHER.</head>
+                  <l>
+                     <hi>Good parts and great vertues are turn'd to offence,</hi>
+                  </l>
+                  <l>
+                     <hi>Where all men are criticks, and few men ha' ſence:</hi>
+                  </l>
+                  <l>
+                     <hi>A Looſe debauchee thinks religion all nonſence,</hi>
+                  </l>
+                  <l>
+                     <hi>But pleaſure and profit are matters o' conſcience:</hi>
+                  </l>
+                  <l>
+                     <hi>Indeed he muſt have but a very dull brain,</hi>
+                  </l>
+                  <l>
+                     <hi>That cant ſlight a vertue he were could attain.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="2" type="fable">
+               <head>FAB. II. <hi>The</hi> Owl <hi>and the</hi> Sun.</head>
+               <lg>
+                  <l>AN Owl in the Sunſhine ſat frowning and winking,</l>
+                  <l>And rail'd at the Sun that occaſion'd his blinking;</l>
+                  <pb n="3" facs="tcp:60669:6"/>
+                  <l>He thought the gay light was on purpoſe deſign'd</l>
+                  <l>For no other end but to keep an Owl blind:</l>
+                  <l>The Sun ſoon reply'd, Muſt the beauty of nature</l>
+                  <l>Be ruin'd to gratifie one purblind Creature:</l>
+                  <l>Muſt the day be all ſhaded and look unbeſeeming,</l>
+                  <l>That You may fright children with Whooping and ſcreaming?</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>SOme men are ſo proud of their own ſilly reaſon,</hi>
+                  </l>
+                  <l>
+                     <hi>That what they don't fancy ſeems all out o' ſeaſon:</hi>
+                  </l>
+                  <l>
+                     <hi>But Providence ſtill is Patient and wiſe,</hi>
+                  </l>
+                  <l>
+                     <hi>An Owl may find fault, but the fault's in his eyes.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="3" type="fable">
+               <head>FAB. III. <hi>The</hi> Toad <hi>and the</hi> Ox.</head>
+               <lg>
+                  <l>AN old Sullen Toad full of Envy and Poiſon,</l>
+                  <l>Wou'd rival an Ox that by chance ſhe ſet ey's on;</l>
+                  <pb n="4" facs="tcp:60669:7"/>
+                  <l>Her ſon that ſat by ſaid, Mother he wiſe,</l>
+                  <l>And aim not to ſwell to that monſtrous ſize:</l>
+                  <l>For were You as big as the Ox is, or bigger,</l>
+                  <l>The beaſts wou'd but ſtare at your horrible figure:</l>
+                  <l>But the Toad to be taught was too old, and too curſt,</l>
+                  <l>So ſhe try'd twice or thrice, and ſwell'd till ſhe burſt.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>PRetend not to rival conditions above ye,</hi>
+                  </l>
+                  <l>
+                     <hi>If you love your own ſelf, or wou'd have others love ye;</hi>
+                  </l>
+                  <l>
+                     <hi>For that man is born to an unlucky Fate,</hi>
+                  </l>
+                  <l>
+                     <hi>Whoſe heart is too large for his wit or Eſtate:</hi>
+                  </l>
+                  <l>
+                     <hi>Tis an idle Ambition to Bluſter and ſwagger,</hi>
+                  </l>
+                  <l>
+                     <hi>And live like a Lord, thô you die like a beggar.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="4" type="fable">
+               <pb n="5" facs="tcp:60669:7"/>
+               <head>FAB. IV. <hi>The</hi> Gooſe <hi>and her</hi> Goſling.</head>
+               <lg>
+                  <l>SAys a Gooſe to a Goſling, Child think o' my rule,</l>
+                  <l>And don't You go nodding your head like a Fool;</l>
+                  <l>The Goſling to alter her gate ſtrait intended,</l>
+                  <l>But found 'twas in vain to endeavour to mend it:</l>
+                  <l>The Gooſe to her legs ty's two little ſticks,</l>
+                  <l>To wean off her child from ſuch wadling tricks;</l>
+                  <l>But ſtriving to manage the ſtilts, ſhe wa'nt able</l>
+                  <l>To walk, or to ſwim, or ſo much as to dabble:</l>
+                  <l>Nay ſays the Old Gooſe, nere let it be ſaid,</l>
+                  <l>But that at the leaſt You cou'd hold up your head;</l>
+                  <l>The Goſlin ſtrait perks up her head, and crys, ſo!</l>
+                  <l>Now how ſhall I do to ſee where I go?</l>
+                  <l>Nay then ſays the old one if this be your anſwer,</l>
+                  <l>E'ne waddle and noddle and go like your Granſire.</l>
+               </lg>
+               <lg>
+                  <pb n="6" facs="tcp:60669:8"/>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>HOW happy 'twoud be if each ſilly creature,</hi>
+                  </l>
+                  <l>
+                     <hi>Did know but the folly of ſtriving with Nature;</hi>
+                  </l>
+                  <l>
+                     <hi>But many have got a fantaſtical wit</hi>
+                  </l>
+                  <l>
+                     <hi>That doats on employment for which they're unfit.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="5" type="fable">
+               <head>FAB. V. <hi>A</hi> Bee <hi>and a</hi> Bear.</head>
+               <lg>
+                  <l>A Bee ſtung a Bear, and for the raſh action</l>
+                  <l>The Bear from the Hive wou'd demand ſatisfa<g ref="char:EOLhyphen"/>ction:</l>
+                  <l>While he rifles the Hive a ſwarm o' Bees flies out,</l>
+                  <l>And ſtings the Poor Bear till they ſtung both his eyes out.</l>
+               </lg>
+               <lg>
+                  <pb n="7" facs="tcp:60669:8"/>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>P<g ref="char:V">Ʋ</g>T up ſmall Affronts; If they wont content ye,</hi>
+                  </l>
+                  <l>
+                     <hi>Inſtead of One ſlight you'l encounter wi' twenty.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="6" type="fable">
+               <head>FAB. VI. <hi>A</hi> Town <hi>in Danger of a Siege.</hi>
+               </head>
+               <lg>
+                  <l>A Town fear'd a Siege, and held Conſultation</l>
+                  <l>What was the beſt method o' Fortification;</l>
+                  <l>A Grave skilful Maſon declar'd his opinion</l>
+                  <l>That nothing but ſtone cou'd ſecure the dominion:</l>
+                  <l>A Carpenter ſaid thô that was well ſpoke,</l>
+                  <l>Yet he'd rather chooſe to defend it with Oak:</l>
+                  <l>A Currier wiſer than both theſe together</l>
+                  <l>Cry'd try what you pleaſe, but nothing's like leather.</l>
+               </lg>
+               <lg>
+                  <pb n="8" facs="tcp:60669:9"/>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>MOſt men will be true to their own private ends,</hi>
+                  </l>
+                  <l>
+                     <hi>Thô falſe to their country, religion, and friends;</hi>
+                  </l>
+                  <l>
+                     <hi>One main thing is needful, and that's our own profit;</hi>
+                  </l>
+                  <l>
+                     <hi>Let that be ſecur'd whatever come of it:</hi>
+                  </l>
+                  <l>
+                     <hi>But while this ſelf love is a nations undoing,</hi>
+                  </l>
+                  <l>
+                     <hi>Ev'n they who betray it muſt ſink in the ruin.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="7" type="fable">
+               <head>FAB. VII. <hi>The</hi> Dog <hi>and the</hi> Sow.</head>
+               <lg>
+                  <l>BE gone ſays a Sow to a Dog, or by <hi>Venus</hi>
+                  </l>
+                  <l>I'le make you repent that a word paſt between us;</l>
+                  <l>You fool ſays the Dog, that Goddeſs Divine</l>
+                  <l>Hates nothing ſo much as the fleſh of a ſwine;</l>
+                  <l>Indeed Madam Sow, he that ſees You ſo fair,</l>
+                  <l>Will ſay you have reaſon by <hi>Venus</hi> to ſwear;</l>
+                  <pb n="9" facs="tcp:60669:9"/>
+                  <l>Yet <hi>Venus</hi> no Votary er'e cou'd endure,</l>
+                  <l>Whom vile filthy Bacon had render'd impure.</l>
+                  <l>For that ſays the Sow I her kindneſs admire,</l>
+                  <l>For they that hurt me durſt never come nigh her.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>A Quick Repartee is of excellent uſe,</hi>
+                  </l>
+                  <l>
+                     <hi>Which can to our credit improve an abuſe.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="8" type="fable">
+               <head>FAB. VIII. <hi>The Kingdom of</hi> Apes.</head>
+               <lg>
+                  <l>T Was the chance of two Travailers once in their way</l>
+                  <l>To light of a Kingdom where Apes bore the ſway;</l>
+                  <l>The one was a plain man, the other all riddle</l>
+                  <l>His joints were in tune to obey a court fiddle:</l>
+                  <l>Being taken for ſpies who to Realms denounce ill,</l>
+                  <l>They muſt be examin'd before Privy Council:</l>
+                  <pb n="10" facs="tcp:60669:10"/>
+                  <l>Then King of the Apos to try their Civility:</l>
+                  <l>Demanded their thoughts of himſelf and Nobility;</l>
+                  <l>The Courtier crys, Sir, You govern the Place,</l>
+                  <l>For Majeſty ſeems to be ſtampt in your Face,</l>
+                  <l>An Emperor you, theſe are Princes o' blood</l>
+                  <l>And wiſe Politicians that do the world good:</l>
+                  <l>The King ſtrait replies, we wiſdom regard,</l>
+                  <l>A Buſhel of Apples muſt be your reward.</l>
+                  <l>But now for your neighbour: Lets hear friend your mind,</l>
+                  <l>Pray how are your thoughts to the Kingdom inclin'd?</l>
+                  <l>Plain Dealer replies, Sir, you ſeem by your ſhape</l>
+                  <l>To be but a dignified kind of an Ape:</l>
+                  <l>And theſe here about you ſeem all your Relations,</l>
+                  <l>All Apes, and all fitted for their occupations.</l>
+                  <l>This anger'd the Monarch, and vext all his train,</l>
+                  <l>So they tore him to pieces for talking ſo plain.</l>
+               </lg>
+               <lg>
+                  <pb n="11" facs="tcp:60669:10"/>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>HE ſoon gets Preferment that flatters and lies,</hi>
+                  </l>
+                  <l>
+                     <hi>But plain honeſt men are not likely to riſe.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="9" type="fable">
+               <head>FAB. IX. <hi>The</hi> Crab <hi>and her Daughter.</hi>
+               </head>
+               <lg>
+                  <l>AN Old Mother Crab thus ſchool'd her young Wench,</l>
+                  <l>Daughter turn out your toes, &amp; walk like the <hi>French,</hi>
+                  </l>
+                  <l>Move hanſomely forward, obſerve the bon grace,</l>
+                  <l>And don't You crawl backward with that aukward pace:</l>
+                  <l>But the Crab met with this reply from her daughter,</l>
+                  <l>Mother lead you the way, and I'le ſoon follow after.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>EXample to Vertue the heart more engages</hi>
+                  </l>
+                  <l>
+                     <hi>Than all the fine ſayings of Doctors and ſages;</hi>
+                  </l>
+                  <pb n="12" facs="tcp:60669:11"/>
+                  <l>
+                     <hi>Good words are but vain if your actions don't ſuit,</hi>
+                  </l>
+                  <l>
+                     <hi>While You talk like an Angel and live like a brute.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="10" type="fable">
+               <head>FAB. X. <hi>The</hi> Gnat <hi>and the</hi> Bull.</head>
+               <lg>
+                  <l>A Mannerly Gnat to the Bull made addreſs,</l>
+                  <l>And thus in Court language himſelf did expreſs;</l>
+                  <l>Sir, I beg your diverſion, and humbly crave pardon,</l>
+                  <l>If the weight of my body your horn preſſes hard on:</l>
+                  <l>But if I offend You I'le ſtraightway be gone,</l>
+                  <l>Pray go Sir, or ſtay, ſays the Bull, tis all one.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>AN Ill bred buffoon plagues us leſs with abuſes,</hi>
+                  </l>
+                  <l>
+                     <hi>Than a finical fop with harangues and excuſes;</hi>
+                  </l>
+                  <l>
+                     <hi>Leaſt his Perſon or dreſs ſhould 'ſcape ridicule,</hi>
+                  </l>
+                  <l>
+                     <hi>He takes care his language ſhould ſhow he's a fool.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="11" type="fable">
+               <pb n="13" facs="tcp:60669:11"/>
+               <head>FAB. XI. <hi>A</hi> Mountebank <hi>and a</hi> Bear.</head>
+               <lg>
+                  <l>A Mountebank who the whole rabble did gravel,</l>
+                  <l>With <hi>Greek</hi> words, and balſoms, Elixir, and travel,</l>
+                  <l>Stood amaz'd to behold how that wonder of nature</l>
+                  <l>A Bear, drew the Mob from the learn'd Operator,</l>
+                  <l>They laught, and huzza'd, and threw many a flowt</l>
+                  <l>At the Beaſt and the Squire that uſher'd his ſnout:</l>
+                  <l>The Brute wou'd not bear it, but taking o' ſnuff</l>
+                  <l>Soon anſwer'd deriſion wi' moral rebuff:</l>
+                  <l>Says he, Courteous friends don't keep ſuch a pother,</l>
+                  <l>Have patience to ſee your own faults in another:</l>
+                  <l>You hoot at a Bear, yet he more than ſuppoſes</l>
+                  <l>A Gliſterpipe Quack leads You all by the noſes.</l>
+               </lg>
+               <lg>
+                  <pb n="14" facs="tcp:60669:12"/>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>HE that others derides himſelf ſhould ſee clearly,</hi>
+                  </l>
+                  <l>
+                     <hi>Or elſe he may laſh his own faults moſt ſeverely.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="12" type="fable">
+               <head>FAB. XII. <hi>A</hi> Widdow <hi>and</hi> Widdower.</head>
+               <lg>
+                  <l>A Widdow and Widdower led a ſad life;</l>
+                  <l>She prais'd her dead husband, the man his dead wife:</l>
+                  <l>At ſupper the wife gives the leg of a Fowl,</l>
+                  <l>To a beggar to pray for her dead husbands ſoul:</l>
+                  <l>The reſt of the Fowl the Husband imparted,</l>
+                  <l>That the beggar might pray for his Lady departed.</l>
+                  <l>Thus while they both teſtified love to the dead;</l>
+                  <l>The living went angry and hungry to bed.</l>
+               </lg>
+               <lg>
+                  <pb n="15" facs="tcp:60669:12"/>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>A Married condition becomes a meer riot,</hi>
+                  </l>
+                  <l>
+                     <hi>Where a man and his wife can't agree to be quiet.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="13" type="fable">
+               <head>FAB. XIII. <hi>The</hi> Mouſe <hi>and the</hi> Lion.</head>
+               <lg>
+                  <l>A Mouſe ſav'd a Lion in danger of Life;</l>
+                  <l>And then beg'd his daughter to make him a Wife:</l>
+                  <l>The Generous Lion ſoon granted the favour;</l>
+                  <l>The day was appointed the Mouſe was to have her;</l>
+                  <l>The Marriage was ſoon huddled up at a venture,</l>
+                  <l>And juſt as ſack poſſet was ready to enter;</l>
+                  <l>The unfortunate Bride as ſhe ſtalkt into bed</l>
+                  <l>Set her paw on her husband and left him ſtone dead.</l>
+                  <l>It was a great pity, a Bridegroom ſo merry</l>
+                  <l>Shou'd thus call for Oars at the <hi>Stygian</hi> ferry.</l>
+               </lg>
+               <lg>
+                  <pb n="16" facs="tcp:60669:13"/>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>THere's many a Tradeſman reduc't to great need,</hi>
+                  </l>
+                  <l>
+                     <hi>To keep a Proud Wife of a Quality breed:</hi>
+                  </l>
+                  <l>
+                     <hi>Yet while he's related to ſome noble houſe,</hi>
+                  </l>
+                  <l>
+                     <hi>The man nere conſiders the fate o' the mouſe.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="14" type="fable">
+               <head>FAB. XIV. <hi>The</hi> Cat <hi>and the</hi> Cock.</head>
+               <lg>
+                  <l>A Hungry Cat ſeiz'd a Cock in her claws,</l>
+                  <l>And thus the poor bird woul'd ha' pleaded his cauſe;</l>
+                  <l>Pray what's the offence of which I'me indited?</l>
+                  <l>If I do any wrong I'le endeavour to right it:</l>
+                  <l>You crow ſays the Cat with an ugly ſhrill voice,</l>
+                  <l>And no one can ſleep for your Sowgelders noiſe:</l>
+                  <l>Alaſs ſaid the Cock I by crowing give warning,</l>
+                  <l>That ſervants may riſe up betimes in the morning:</l>
+                  <pb n="17" facs="tcp:60669:13"/>
+                  <l>Moreover ſays Puſs you're inceſtuous they ſay,</l>
+                  <l>And Mother, or Siſter's, all one in your way:</l>
+                  <l>Says the Cock by this means the houſe is ſuppli'd,</l>
+                  <l>And eggs ſtill remain for the Market beſide:</l>
+                  <l>In a word ſays the Cat no excuſe can defend you,</l>
+                  <l>The Claws of Grim Juſtice are ready to end you.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>HE that is by nature revengeful and cruel,</hi>
+                  </l>
+                  <l>
+                     <hi>All Paſſion, and fire, can never want fuel:</hi>
+                  </l>
+                  <l>
+                     <hi>For there's no excuſe ſo untoward and ſenceleſs,</hi>
+                  </l>
+                  <l>
+                     <hi>But do's well enough to oppreſs the defenceleſs.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="15" type="fable">
+               <head>FAB. XV. <hi>The</hi> Moon <hi>and her</hi> Tailor.</head>
+               <lg>
+                  <l>THe Moon wants a gown and her Taylor muſt make it,</l>
+                  <l>But he Honeſt man wou'd not dare undertake it:</l>
+                  <pb n="18" facs="tcp:60669:14"/>
+                  <l>Your body ſaies he, Madam, looks well to day,</l>
+                  <l>But in a Weeks time 'twill half wear away:</l>
+                  <l>Sometimes your proportion is Jolly and round,</l>
+                  <l>Then as thin as a Candle of Twelve in the pound;</l>
+                  <l>You're crooked, and ſtrait, thick and thin, at your plea<g ref="char:EOLhyphen"/>ſure;</l>
+                  <l>And now, Madam, how can a Taylor take meaſure?</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>IN vain is our pains and our labour deſign'd,</hi>
+                  </l>
+                  <l>
+                     <hi>To humour a man that don't know his own mind.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="16" type="fable">
+               <head>FAB. XVI. <hi>A</hi> Cuckow <hi>and</hi> Little Birds.</head>
+               <lg>
+                  <l>A Cuckow much wondred the Birds did ſo fly her,</l>
+                  <l>And what was the reaſon they dare not come nigh her?</l>
+                  <l>She never did harm, not a Titmouſe cou'd ſay</l>
+                  <l>That ever ſhe made his Relations a Prey:</l>
+                  <pb n="19" facs="tcp:60669:14"/>
+                  <l>'Tis true replies one, but our fancies you balk</l>
+                  <l>You are no Bird o' Prey, yet you look like a hawk.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>A Man that does vertue and goodneſs approve,</hi>
+                  </l>
+                  <l>
+                     <hi>Does never unſuitable Company love:</hi>
+                  </l>
+                  <l>
+                     <hi>To hate all that's ill is a happy condition,</hi>
+                  </l>
+                  <l>
+                     <hi>And none truly hates it, but hates the ſuſpicion.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="17" type="fable">
+               <head>FAB. XVII. <hi>The</hi> Hawks <hi>and the</hi> Pigeons.</head>
+               <lg>
+                  <l>THE Hawks in a long Civil war had contended,</l>
+                  <l>By means of the Pigeons the matter is ended;</l>
+                  <l>The quarrel no ſooner among the Hawks ceaſes,</l>
+                  <l>But they fall on the Pigeons and tear 'em to pieces.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>GOod Nature ſhou'd ne're indiſcreetly be ſhown;</hi>
+                  </l>
+                  <l>
+                     <hi>Many pacifie Quarrels and make 'em their own.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="18" type="fable">
+               <pb n="20" facs="tcp:60669:15"/>
+               <head>FAB. XVIII. <hi>The</hi> Cock <hi>and the</hi> Fox.</head>
+               <lg>
+                  <l>A Cock on a Tree advantageouſly poſted,</l>
+                  <l>Was ſeen by a planſible Fox and accoſted;</l>
+                  <l>He told him no Bird that e're wore a feather</l>
+                  <l>Cou'd match him for beauty and wiſdom together!</l>
+                  <l>And O! that the Cock wou'd afford him the grace,</l>
+                  <l>So great a Philoſopher once to embrace!</l>
+                  <l>How bleſt ſhou'd he be, if by his Vicinity</l>
+                  <l>He might as it were but touch his Divinity!</l>
+                  <l>The Cock heard the Fox with very good will,</l>
+                  <l>So tickled wi' praiſe he cou'd hardly ſit ſtill:</l>
+                  <l>At laſt down he flutters; the Fox takes occaſion</l>
+                  <l>To welcome his friend with a rough Salutation:</l>
+                  <l>Saies he, worthy Prophet your skill you have ſhown,</l>
+                  <l>You tell others Fortunes and can't tell your own:</l>
+                  <pb n="21" facs="tcp:60669:15"/>
+                  <l>Now juggle, now conjure, ſhow all your black art:</l>
+                  <l>Without ſtrong enchantment you'le certainly ſmart.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>IN Nature it ſeems an Infallible Rule,</hi>
+                  </l>
+                  <l>
+                     <hi>That Flattery always ſuppoſes a Fool:</hi>
+                  </l>
+                  <l>
+                     <hi>If we love the praiſe, we the ſcandal muſt bear;</hi>
+                  </l>
+                  <l>
+                     <hi>If we ſlight it, it falls to the flatterers ſhare.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="19" type="fable">
+               <head>FAB. XIX <hi>The Mad</hi> Lion</head>
+               <lg>
+                  <l>THere went a report, and good Authors backt it;</l>
+                  <l>The Lyon the King of the woods was diſtracted.</l>
+                  <l>This put the whole Mob in a ſad conſternation;</l>
+                  <l>What miſchief, ſay they, will befall the poor nation:</l>
+                  <l>A Lion at beſt is like abſolute Princes;</l>
+                  <l>Hee'l eat us all up if he's out of his ſenſes.</l>
+               </lg>
+               <lg>
+                  <pb n="22" facs="tcp:60669:16"/>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>MEN hardly good Princes with patience endure,</hi>
+                  </l>
+                  <l>
+                     <hi>But he that's a Tyrant had need to ſit ſure.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="20" type="fable">
+               <head>FAB. XX. <hi>The</hi> Dog <hi>and</hi> Shadow.</head>
+               <lg>
+                  <l>A Dog who for plunder had been a Pickeering,</l>
+                  <l>With a piece of raw beef croſs a river was ſteer<g ref="char:EOLhyphen"/>ing:</l>
+                  <l>The Sun ſhone, and made a reflexion ſo freſh,</l>
+                  <l>The ſtream ſeem'd to ſhow him a new piece o' fleſh:</l>
+                  <l>So he chopt at the ſhadow, and loſt what he had:</l>
+                  <l>Which vext the Cur ſo, that they ſay he ran mad.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>PRojectors that with their Eſtates a'nt contented,</hi>
+                  </l>
+                  <l>
+                     <hi>Quite ruine their Fortune by ſtriving to mend it.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="21" type="fable">
+               <pb n="23" facs="tcp:60669:16"/>
+               <head>FAB. XXI. <hi>The</hi> Fox, Wolf <hi>and</hi> Ape.</head>
+               <lg>
+                  <l>A Fox was indicted upon an old grudge,</l>
+                  <l>A Wolf was the Plaintiff, an Ape was the Judg;</l>
+                  <l>Then Reynard was askt, Was he guilty or no?</l>
+                  <l>And the witneſſes ſwore to it, <hi>con &amp; pro:</hi>
+                  </l>
+                  <l>The Ape having du'ly conſider'd the caſe</l>
+                  <l>Pronounces both faulty: You Woll ha' the face,</l>
+                  <l>Saies my Lord, this Fox as a Thief to mdite,</l>
+                  <l>In an Action to proſecute which you want right:</l>
+                  <l>This Indictment the Fox to deny does not doubt,</l>
+                  <l>Thô the matter o' fact be plainly made out:</l>
+                  <l>In ſhort You endeavour the whole Court may ſee,</l>
+                  <l>You're a couple o' Raſcals but cannot agree.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>DIſorder breeds order, Injuſtice do's right;</hi>
+                  </l>
+                  <l>
+                     <hi>Men are honeſt in Envy, and good out o'ſpight.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="22" type="fable">
+               <pb n="24" facs="tcp:60669:17"/>
+               <head>FAB XXII. <hi>A</hi> Covetous Man <hi>and his</hi> Orchard.</head>
+               <lg>
+                  <l>A Man that an Orchard of rare Fruit had gotten,</l>
+                  <l>Spar'd all that was ripe, and eat all that was rot<g ref="char:EOLhyphen"/>ten;</l>
+                  <l>His Son, my young maſter, one day got the Key,</l>
+                  <l>And in with a whole gang o'ſchoolboys comes he:</l>
+                  <l>Now Boys fill your Breeches, and hang him that ſpares,</l>
+                  <l>So down go the Peaches, the Plums, and the Pears:</l>
+                  <l>Be ſure, ſays Young Maſter, what's good and ripe ga<g ref="char:EOLhyphen"/>ther:</l>
+                  <l>And leave all that's bad for the old fool my Father.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>A <hi>Poor ſordid ſpirit that doats upon pelf,</hi>
+                  </l>
+                  <l>
+                     <hi>Thô hated by all, ſuffers moſt from himſelf:</hi>
+                  </l>
+                  <l>
+                     <hi>He ſcrapes all his life, ev'n till he's a dying;</hi>
+                  </l>
+                  <l>
+                     <hi>To leave it a Son that will ſoon ſet it flying.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="23" type="fable">
+               <pb n="25" facs="tcp:60669:17"/>
+               <head>FAB. XXIII. <hi>The</hi> Magpy <hi>and the</hi> Eagle.</head>
+               <lg>
+                  <l>A Magpie tri'd many waies how to inveigle</l>
+                  <l>And make her ſelf intimate with a Court Eagle:</l>
+                  <l>She thought her good parts, and quick apprehenſion,</l>
+                  <l>Might give her deſervedly hopes of a Penſion:</l>
+                  <l>No bird that cou'd ſhow ſuch an excellent Soul,</l>
+                  <l>So fit to pay Complements, or to Condole;</l>
+                  <l>Her fancie in dreſſing was airie and pretty,</l>
+                  <l>And then in diſcourſe there was nothing ſo witty.</l>
+                  <l>The Eagle ſaw well that the Magpie had parts,</l>
+                  <l>Confeſt her great beauty, and worthy deſerts;</l>
+                  <l>But yet, wou'd give him no place o'truſt, hating</l>
+                  <l>A Bird that was ſo much addicted to prating.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>TO govern his tongue ſhows a man o' more ſence</hi>
+                  </l>
+                  <l>
+                     <hi>Than they who to witty diſcourſe make pretence;</hi>
+                  </l>
+                  <pb n="26" facs="tcp:60669:18"/>
+                  <l>
+                     <hi>A friend that's defective in this kind o'wit,</hi>
+                  </l>
+                  <l>
+                     <hi>Is for the degree of a Servant unfit.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="24" type="fable">
+               <head>FAB. XXIV. <hi>The</hi> Fly <hi>and the</hi> Pot.</head>
+               <lg>
+                  <l>A Liquoriſh Fly, that wou'd pamper his belly,</l>
+                  <l>Was got very deep in a Pot of good gelly;</l>
+                  <l>And when he wou'd gladly have got out again,</l>
+                  <l>He found upon trial his labour was vain:</l>
+                  <l>His Boots were ſo liquor'd, his wings were ſo paſted,</l>
+                  <l>He found he muſt pay dear for what he had taſted:</l>
+                  <l>Then he pull'd up his heart, and with courage heroick,</l>
+                  <l>Thô he liv'd like an Epicure, died like a Stoick.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>'TIS wiſe in enjoyments to keep a due meaſure,</hi>
+                  </l>
+                  <l>
+                     <hi>And not die effeminate Martyrs o' pleaſure;</hi>
+                  </l>
+                  <pb n="27" facs="tcp:60669:18"/>
+                  <l>
+                     <hi>Yet if by our Vices we worthily ſmart,</hi>
+                  </l>
+                  <l>
+                     <hi>There's nothing looks well but a good Patient heart:</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="25" type="fable">
+               <head>FAB. XXV. <hi>The</hi> Fox <hi>and the</hi> Crow.</head>
+               <lg>
+                  <l>A Crow who had ſomewhere been ſtealing a dinner,</l>
+                  <l>Held Cheeſe in her mouth till a ſly Fox had ſeen her;</l>
+                  <l>He runs to the Tree where ſhe ſat; and ſaies he</l>
+                  <l>Are you the bright Lady I long wiſht to ſee?</l>
+                  <l>People ſay You are black, but where is their ſight?</l>
+                  <l>I ne're ſaw a bird of ſo lovely a white!</l>
+                  <l>The Swan's very fair, to give her, her due;</l>
+                  <l>But not of ſo clear a complexion as You:</l>
+                  <l>If your voice do's as much as your beauty excell;</l>
+                  <l>You'le raviſh all creatures where ever you dwell:</l>
+                  <l>The Crow, who imagin'd her voice muſt needs pleaſe,</l>
+                  <l>Went to tune up her Pipes, and down fell the cheeſe:</l>
+                  <pb n="28" facs="tcp:60669:19"/>
+                  <l>The Fox catcht it up, and cri'd, ſpare your noiſe,</l>
+                  <l>You quite turn my ſtomach with that ugly voice:</l>
+                  <l>Lets have a Ceſſation of thoſe rueful ſtrains;</l>
+                  <l>'Tis plain You have neither voice, beauty, nor brains.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>HE who has Eſtate, ſhall never want friends</hi>
+                  </l>
+                  <l>
+                     <hi>To flatter his Vanity for their own ends:</hi>
+                  </l>
+                  <l>
+                     <hi>But when the Enchantment of Intereſt's gone,</hi>
+                  </l>
+                  <l>
+                     <hi>A Fool may be ſure he ſhall meet with his own.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="26" type="fable">
+               <head>FAB. XXVI. <hi>A</hi> Clown <hi>and a</hi> Bee.</head>
+               <lg>
+                  <l>A Clown took it ill to be ſtung by a Bee,</l>
+                  <l>For how cou'd ſuch Venom with honey agree?</l>
+                  <l>The Bee told him plain, you're a dull country creature;</l>
+                  <l>Is any thing worſe to provoke than good nature?</l>
+               </lg>
+               <lg>
+                  <pb n="29" facs="tcp:60669:19"/>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>WHen Men even Mercy and Patience abuſe,</hi>
+                  </l>
+                  <l>
+                     <hi>Our anger can't wiſh for a fairer excuſe;</hi>
+                  </l>
+                  <l>
+                     <hi>Yet thô our revenge may be hanſomely ſhown,</hi>
+                  </l>
+                  <l>
+                     <hi>'Tis always more noble to let it alone.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="27" type="fable">
+               <head>FAB. XXVII. <hi>The</hi> Pilot <hi>and</hi> Merchant.</head>
+               <lg>
+                  <l>A Merchant that ne're was before in a Storm,</l>
+                  <l>Was amaz'd at a Pilot that dreaded no harm;</l>
+                  <l>And therefore he puts in a word by the by,</l>
+                  <l>What death M<hi rend="sup">r</hi> Pilot did your Father die?</l>
+                  <l>What death do you ask ſaies the Pilot? Why he</l>
+                  <l>And my Grandfather too both periſht at Sea:</l>
+                  <l>If ſo, ſai's the Merchant, then what's the occaſion</l>
+                  <l>That makes You ſo forward at this Navigation?</l>
+                  <pb n="30" facs="tcp:60669:20"/>
+                  <l>Why pray ſaies the Pilot e'nt your Father dead?</l>
+                  <l>Why yes cries the Merchant, but dy'd in his bed:</l>
+                  <l>Say you ſo quoth the Tar; why then by this rule</l>
+                  <l>If You your ſelfe're go to bed you're a fool.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>SInce Fate is ſtrong, and death is every where;</hi>
+                  </l>
+                  <l>
+                     <hi>The Brave are as ſecure as thoſe that fear.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="28" type="fable">
+               <head>FAB. XXVIII. <hi>The</hi> Fox <hi>and the</hi> Stork.</head>
+               <lg>
+                  <l>A Fox that had made quick diſpatch of a Pullet,</l>
+                  <l>Felt an untoward bone ſtick a croſs in his gullet;</l>
+                  <l>Which he neither upward nor downward cou'd get,</l>
+                  <l>This put the poor Beaſt in a wonderful fret:</l>
+                  <l>He thought of a Crane, who by ſpecial gift,</l>
+                  <l>Was ſuited to help him out at a dead lift:</l>
+                  <pb n="31" facs="tcp:60669:20"/>
+                  <l>The Bird with fair promiſes quickly was won,</l>
+                  <l>To put his long bill in and pull out the bone:</l>
+                  <l>This done, the reward was expected wi' paſſion,</l>
+                  <l>As richly deſerv'd by the rare operation:</l>
+                  <l>Of that ſaies the Fox no more muſt be s'ed of</l>
+                  <l>'Tis enough when I might, I did not bite your head off.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>MEN oft in diſtreſs are ſubmiſſive and fair,</hi>
+                  </l>
+                  <l>
+                     <hi>Who if fortune changes as inſolent are;</hi>
+                  </l>
+                  <l>
+                     <hi>What favour can ſordid Ingratitude charm?</hi>
+                  </l>
+                  <l>
+                     <hi>You're pai'd well enough if you meet wi' no harm.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="29" type="fable">
+               <head>FAB. XXIX. <hi>The</hi> Projector <hi>and the</hi> Aſs.</head>
+               <lg>
+                  <l>IN the ſpace of Ten years, a Projector agreed</l>
+                  <l>To teach an Aſs how to chop Logick and read:</l>
+                  <pb n="32" facs="tcp:60669:21"/>
+                  <l>The Wager was lay'd, and the forfeitures nam'd;</l>
+                  <l>But when the odd humour by many was blam'd,</l>
+                  <l>Why look ye, ſays he, 'tis fourty to one</l>
+                  <l>The Aſs may be dead e're his Lectures are done;</l>
+                  <l>Or I may drop off peradventure, or he</l>
+                  <l>That lay's me the wager, and then we are free.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>SOme Projects at firſt that improbable ſeem,</hi>
+                  </l>
+                  <l>
+                     <hi>Are manag'd by methods of which we don't dream;</hi>
+                  </l>
+                  <l>
+                     <hi>A crafty Deſigner, if one way w'ont do,</hi>
+                  </l>
+                  <l>
+                     <hi>Has twenty more ready his ends to purſue.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="30" type="fable">
+               <head>FAB. XXX. <hi>The</hi> Farmer <hi>and</hi> Weaſel.</head>
+               <lg>
+                  <l>A Weaſel was taken and cry'd out for Pity,</l>
+                  <l>O Maſter conſider the good that I did 'ye!</l>
+                  <pb n="33" facs="tcp:60669:21"/>
+                  <l>I always defended your Bacon and Cheeſe,</l>
+                  <l>And kill'd Rats and Mice of all ſorts and degrees:</l>
+                  <l>And after ſuch ſervice, methinks it agrees ill</l>
+                  <l>With Juſtice, for you to deſtroy the poor Weaſel:</l>
+                  <l>The Farmer replies, You ſeem to talk ſence;</l>
+                  <l>Yet all that you ſay, is meer ſham, and pretence.</l>
+                  <l>'Tis true that you eat up the Mice as you ſay,</l>
+                  <l>And every thing elſe that comes in your way:</l>
+                  <l>And therefore I muſt deal ſo freely to tell ye,</l>
+                  <l>You did not love Me ſo much as your belly,</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>TOO many that aim at their own private ends,</hi>
+                  </l>
+                  <l>
+                     <hi>Wou'd fain have the fame of obliging their friends.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="31" type="fable">
+               <head>FAB. XXXI. <hi>The</hi> Fox <hi>and the</hi> Crane.</head>
+               <lg>
+                  <l>A Fox wou'd needs treat, and invited a Crane</l>
+                  <l>To ſhow how Gentilely he cou'd entertain:</l>
+                  <pb n="34" facs="tcp:60669:22"/>
+                  <l>With poſſet and Cawdle he ſlabber'd a Table,</l>
+                  <l>And vow'd 'twas as good as to make he was able.</l>
+                  <l>Fall to M<hi rend="sup">r</hi> Crane, for now you are come</l>
+                  <l>You muſt be as free as at your own home:</l>
+                  <l>I'le vow you're to blame, you eat very little,</l>
+                  <l>I fancy you are not well pleas'd wi' your Victual:</l>
+                  <l>The Crane for his heart cou'd not take up a drop,</l>
+                  <l>Yet civilly bow'd and commended the ſoup:</l>
+                  <l>And beg'd of the Fox with wondrous humility,</l>
+                  <l>That he wou'd accept of the ſame civility;</l>
+                  <l>The Fox very kindly vouchſafe him the grace,</l>
+                  <l>The Crane gave a treat in a narrow mouth'd glaſs;</l>
+                  <l>From whence his long bill pickt up the good fare,</l>
+                  <l>While the Foxlick't the out ſide and cri'd it was rare.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>AN Inſolent Jeſter that never gives quarter,</hi>
+                  </l>
+                  <l>
+                     <hi>Oft meets with his match, and catches a</hi> Tartar:</l>
+                  <pb n="35" facs="tcp:60669:22"/>
+                  <l>
+                     <hi>And all men are mightily pleas'd, when they find</hi>
+                  </l>
+                  <l>
+                     <hi>A Knave or Buffoon pai'd home in his kind.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="32" type="fable">
+               <head>FAB. XXXII. <hi>The</hi> Viper <hi>and</hi> File.</head>
+               <lg>
+                  <l>A Viper enrag'd wou'd needs bite a File,</l>
+                  <l>The File at her madneſs, cou'd not chooſe but ſmile;</l>
+                  <l>Leave off Idle Fool, unleſs you have need</l>
+                  <l>To break all your teeth and make your Gums bleed:</l>
+                  <l>To hurt me, or not hurt your ſelf is a wonder,</l>
+                  <l>For I can bite braſs and hard Iron aſunder.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>THô envy ſhou'd ſuffer, in dealing hard meaſure,</hi>
+                  </l>
+                  <l>
+                     <hi>It ne're feels the ſmart, but endures it with plea<g ref="char:EOLhyphen"/>ſure:</hi>
+                  </l>
+                  <l>
+                     <hi>And who's in ſo bad a condition as he is,</hi>
+                  </l>
+                  <l>
+                     <hi>Who loves his own pain and enjoy's his diſeaſe.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="33" type="fable">
+               <pb n="36" facs="tcp:60669:23"/>
+               <head>FAB. XXXIII. <hi>The</hi> Fox <hi>and the</hi> Eagle,</head>
+               <lg>
+                  <l>AN Eagle that thought a young Fox pretty victual,</l>
+                  <l>Wou'd carry ſome home to her birds that were little:</l>
+                  <l>The Old Mother Fox ran after proteſting,</l>
+                  <l>And from her claws mercy moſt humbly requeſting;</l>
+                  <l>When all other arguments fail'd, and were ſlighted,</l>
+                  <l>She fetches a firebrand that was well lighted:</l>
+                  <l>Saies ſhe, for my ſake no pity is ſhown,</l>
+                  <l>Yet now M<hi rend="sup">rs</hi> Eagle, ſhow ſome for your own:</l>
+                  <l>For if you return not my Cubs at deſire,</l>
+                  <l>I'le ſet both the tree and your neſt in a fire:</l>
+                  <l>The Eagle was ſtartled at this propoſition,</l>
+                  <l>And gave back the Cubs with an humble ſubmiſſion.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>THE Powerful ne're ſhould their Greatneſs abuſe,</hi>
+                  </l>
+                  <l>
+                     <hi>Inferior Perſons to vex or abuſe:</hi>
+                  </l>
+                  <pb n="37" facs="tcp:60669:23"/>
+                  <l>
+                     <hi>No Creature ſo dull its deſigns to purſue,</hi>
+                  </l>
+                  <l>
+                     <hi>But rage makes 'em witty and miſchievous too.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="34" type="fable">
+               <head>FAB. XXXIV. <hi>The</hi> Old Man <hi>and his two</hi> Wives.</head>
+               <lg>
+                  <l>AN Old ſort of Beaux, an unmortifi'd Dunce,</l>
+                  <l>Wou'd hardily venture one two Wives at once;</l>
+                  <l>The one was a Beauty and dazled his eyes,</l>
+                  <l>The other was old enough but very wiſe:</l>
+                  <l>The young one diſpatch't all his hairs that were gray,</l>
+                  <l>Leaſt they ſhou'd his weakneſs or dotage betray:</l>
+                  <l>The Matron pull'd up the black hairs by the root,</l>
+                  <l>Which did not his age, nor his gravity ſuit:</l>
+                  <l>Thus worſe than Old Time, did the Poor Bully ſare</l>
+                  <l>Before, and behind, he was left without hair.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>HE that meddles with women, had beſt look about him,</hi>
+                  </l>
+                  <l>
+                     <hi>For tho he be cautious, they're likely to rout him;</hi>
+                  </l>
+                  <pb n="38" facs="tcp:60669:24"/>
+                  <l>
+                     <hi>The <g ref="char:V">Ʋ</g>gly and Airie, the formall and gay,</hi>
+                  </l>
+                  <l>
+                     <hi>The Wits, and the fools, have all tricks in their way.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="35" type="fable">
+               <head>FAB. XXXV. <hi>The</hi> Cat, <hi>the</hi> Sow <hi>and the</hi> Eagle.</head>
+               <lg>
+                  <l>A Cat, Sow, and Eagle, all happen'd to be</l>
+                  <l>Together Inhabitants of the ſame Tree:</l>
+                  <l>The Eagle upon the top planted her neſt,</l>
+                  <l>The Cat with her Kitlings the middle poſſeſt;</l>
+                  <l>But as for the Pigs, the careful Sow got 'em</l>
+                  <l>All treaſur'd up ſafe at a hole in the bottom:</l>
+                  <l>The Cat and her claws were very much buſied,</l>
+                  <l>To Clamber and pay Neighbour Eagle a viſit:</l>
+                  <l>Ah Madam ſaid ſhe, I fear you and I</l>
+                  <l>Shall get little good by the Sow and her Sty:</l>
+                  <l>She lies undermining and grunting below,</l>
+                  <l>I'me ſure in a while ſhe'l the Tree overthrow:</l>
+                  <pb n="39" facs="tcp:60669:24"/>
+                  <l>At This Information, the Eagle ſat watching;</l>
+                  <l>And never durſt go from the birds ſhe was hatching.</l>
+                  <l>Then down creeps the Cat to the Pigs below ſtairs,</l>
+                  <l>And there with ſuſpicions ſhe fills the Sows eats;</l>
+                  <l>She bids her beware, or ſoon ſhe wou'd find</l>
+                  <l>The Eagle to Pigs fleſh was ſtrangely enclin'd:</l>
+                  <l>Her humour ſaies ſhe will be certainly ſhown,</l>
+                  <l>If e're you go out and leave Piggy's alone.</l>
+                  <l>The Sow hearing this was frighted and aw'd</l>
+                  <l>And never for Victuals durſt travail abroad;</l>
+                  <l>By ſuch informations and diligent labours,</l>
+                  <l>The Cat made a ſhift to ſtarve both her neighbours:</l>
+                  <l>Which when ſhe had very ſucceſsfully done,</l>
+                  <l>She claim'd both the Neſt and the Pigs for her own.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>A Man do's in friendſhip exceedingly fail,</hi>
+                  </l>
+                  <l>
+                     <hi>Who gives too much ear to a whiſperers tale;</hi>
+                  </l>
+                  <pb n="40" facs="tcp:60669:25"/>
+                  <l>
+                     <hi>To him you ſuſpect of a Story, reveal it:</hi>
+                  </l>
+                  <l>
+                     <hi>For 'tis both unſafe, and unkind, to conceal it.</hi>
+                  </l>
+                  <l>
+                     <hi>'Tis ſomewhat, to break all a talebearers meaſures;</hi>
+                  </l>
+                  <l>
+                     <hi>To find a friend true, is the greateſt o' pleaſures.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="36" type="fable">
+               <head>FAB. XXXVI. <hi>The</hi> Eagle, Daw <hi>and</hi> Tortoiſe.</head>
+               <lg>
+                  <l>A Tortoiſe by Nature was ſo wrapt in armor,</l>
+                  <l>The Eagle had got her, but cou'd not well harm her:</l>
+                  <l>A miſchievous Daw wou'd needs ſhow the way,</l>
+                  <l>On promiſe her ſelf might ha' ſhare in the prey;</l>
+                  <l>Saies ſhe, let her fall from on high on a rock;</l>
+                  <l>Then all her coat armour will break wi' the ſhock:</l>
+                  <l>The Eagle the Daws wicked counſel ſoon hears,</l>
+                  <l>And daſhes the Tortoiſe's houſe round her ears.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>THE greateſt, and beſt are the moſt unſecure;</hi>
+                  </l>
+                  <l>
+                     <hi>Where miſchievous counſel rules abſolute Pow'r.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="37" type="fable">
+               <pb n="41" facs="tcp:60669:25"/>
+               <head>FAB. XXXVII. <hi>The</hi> Goat <hi>and the</hi> Fox.</head>
+               <lg>
+                  <l>A Dull hairy Goat ſpy'd a Fox in a Well,</l>
+                  <l>Who told him the water did ſtrangely excell;</l>
+                  <l>That ſtill as he drank his delight did encreaſe:</l>
+                  <l>That liquor muſt fail, e're his pleaſure cou'd ceaſe:</l>
+                  <l>Then down skips the Goat; and the Fox takes occaſion</l>
+                  <l>To leap on his horns, and ſo make an Evaſion.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>A Man in great danger, ſo he may get rid,</hi>
+                  </l>
+                  <l>
+                     <hi>Conſiders but little who comes in his ſtead.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="38" type="fable">
+               <head>FAB. XXXVIII. <hi>The</hi> Dogs <hi>and</hi> Jupiter.</head>
+               <lg>
+                  <l>THE Dogs little pleas'd wi' their ſlaviſh condition</l>
+                  <l>Sent Legates and Envoy's to <hi>Jove</hi> wi' Petition:</l>
+                  <pb n="42" facs="tcp:60669:26"/>
+                  <l>Theſe were to inform him of their naſty diet,</l>
+                  <l>And how they were Bang'd and cou'd ne're live at quiet.</l>
+                  <l>But while at each dunghil they ſcrape for a bone,</l>
+                  <l>The Ambaſsy went very leaſurely on:</l>
+                  <l>So that <hi>Mercury</hi> coming to uſher 'em in,</l>
+                  <l>There was not ſo much as a Whelp to be ſeen:</l>
+                  <l>At laſt having found out the Plenipotentiaries,</l>
+                  <l>He drag'd them by th' ears thrô <hi>Jupiters</hi> entries:</l>
+                  <l>The Dogs dreading <hi>Jove,</hi> and his high Preſence cham<g ref="char:EOLhyphen"/>ber,</l>
+                  <l>Left an odd ſort o' ſmell, but 'twas not of amber,</l>
+                  <l>Which when <hi>Jove</hi> perceiv'd, he caus'd ſome attacks</l>
+                  <l>To be made with a Cudgel laid over their backs:</l>
+                  <l>And order'd 'em all to be lay'd up in durance,</l>
+                  <l>For playing ſuch tricks wi' ſo little Aſſurance.</l>
+                  <l>The rumour to all other Dogs was convey'd,</l>
+                  <l>What odious work the late Legates had made;</l>
+                  <l>So ſending new Envoy's, they took ſpecial care</l>
+                  <l>To daub all their tails with odours moſt rare:</l>
+                  <pb n="43" facs="tcp:60669:26"/>
+                  <l>But when the New Legates ſaw <hi>Jove</hi> ſhaking thunder,</l>
+                  <l>They felt other motions beſide thoſe o' wonder:</l>
+                  <l>And thô they were fortified well wi' perſume,</l>
+                  <l>They left no commendable ſcent in the room:</l>
+                  <l>So that mighty <hi>Jove</hi> more vext than before,</l>
+                  <l>E'ne ſent 'em to Priſon and wou'd hear no more:</l>
+                  <l>From that day to this the Dogs ſmell in vain</l>
+                  <l>At ſtrangers, expecting their Envoy's again.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>THey ſorry Improvements are likely to make,</hi>
+                  </l>
+                  <l>
+                     <hi>Who will againſt Nature affairs undertake.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="39" type="fable">
+               <head>FAB. XXXIX. <hi>The Country</hi> Mouſe <hi>and City</hi> Mouſe.</head>
+               <lg>
+                  <l>A Nice City Mouſe with a frollick was taken,</l>
+                  <l>To take the freſh air, and eat Beans and Bacon;</l>
+                  <l>And ſee her old friend, a plain hearty Mouſe</l>
+                  <l>That liv'd in the Country, and kept a Farm Houſe:</l>
+                  <pb n="44" facs="tcp:60669:27"/>
+                  <l>The Mice in the Village came crowding together,</l>
+                  <l>When firſt the gay ſtranger was newly come thither;</l>
+                  <l>The Farmer wi' Pride not a little did ſwell</l>
+                  <l>That a fine ſilken Mouſe at a Cottage wou'd dwell;</l>
+                  <l>And ſo ſhe made ready her Beans and her Peaſe,</l>
+                  <l>The rin'd o' fat Bacon the paring o' cheeſe,</l>
+                  <l>Beſide theſe a diſh kept hot with a cover,</l>
+                  <l>A daintie Black Pudding wi' Sugar ſtrow'd over:</l>
+                  <l>The City Mouſe ſmil'd, and Neighbour ſaid ſhe</l>
+                  <l>Don't put your ſelf to theſe expences for me;</l>
+                  <l>For we in the City are daintily fed,</l>
+                  <l>But I in the Countrey delight in Rye Bread.</l>
+                  <l>You are free and honeſt and have a good heart,</l>
+                  <l>But ſure your condition's below your deſert:</l>
+                  <l>Come go live with me and leave your Vocation,</l>
+                  <l>I'le ſhow you to live in the fat o' the Nation:</l>
+                  <l>I ſpeak without complement truſt to my word,</l>
+                  <l>It never ſhall coſt You a farthing for board:</l>
+                  <pb n="45" facs="tcp:60669:27"/>
+                  <l>You there ſhall be furniſht with what e're you lack</l>
+                  <l>And eat Venizon Paſty, drink Sugar and Sack:</l>
+                  <l>This life was approv'd more then Carting or Ploughing,</l>
+                  <l>And friend, ſaies the Farmer, when ſhall we be going?</l>
+                  <l>For I find my fancy a little encline</l>
+                  <l>To drink humming liquor and eat what is fine:</l>
+                  <l>E're night, in a Palace the Mice made their entry,</l>
+                  <l>Yet City Mouſe wou'd not go into the Pantry,</l>
+                  <l>Becauſe in the Parlor upon ſome occaſion,</l>
+                  <l>The Table was dreſt with a dainty Collation;</l>
+                  <l>Come friend ſays the Citizen, turn Pioneer</l>
+                  <l>This Paſty you ſee is full o' good cheer;</l>
+                  <l>So to it they fell, and cram'd without meaſure;</l>
+                  <l>Till a noiſe in the Key hole diſturb'd all the pleaſure;</l>
+                  <l>A Parcel of Bullies that lov'd to be whoring</l>
+                  <l>Came in with their Dogs and their Miſtreſſes roaring;</l>
+                  <l>The Country Mouſe being but clumſey and tardy,</l>
+                  <l>Unus'd to the place, found life in Jeopardy:</l>
+                  <pb n="46" facs="tcp:60669:28"/>
+                  <l>For being well ſtuft, from danger ſhe ran ill</l>
+                  <l>And was very near being ſnap't by a Spaniel;</l>
+                  <l>But being recover'd at laſt from the fright,</l>
+                  <l>Cri'd ſhe, City Friend I muſt bid you good night:</l>
+                  <l>I'le ne're to eat quelque choſe, and high rogouſts ſtrive,</l>
+                  <l>And live thus in danger of looſing my life.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>A <hi>Wiſe man will chooſe a ſafe mean condition,</hi>
+                  </l>
+                  <l>
+                     <hi>Before the gay life of a Court Politician;</hi>
+                  </l>
+                  <l>
+                     <hi>Before the falſe kindneſs, that fain wou'd appear</hi>
+                  </l>
+                  <l>
+                     <hi>Where Malice and Envy are only ſincere.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="40" type="fable">
+               <head>FAB. XL. <hi>The</hi> Herdſman <hi>and</hi> Jupiter.</head>
+               <lg>
+                  <l>A Heardſman the loſs of his Calf much lamented:</l>
+                  <l>To part with a Kid he was freely contented,</l>
+                  <l>If <hi>Jove</hi> wou'd afford him the ſorry relief</l>
+                  <l>To ſee but ſo much as the Phyz o' the Thief:</l>
+                  <pb n="47" facs="tcp:60669:28"/>
+                  <l>The poor ſilly ſwain ſcarce ended his pray'rs</l>
+                  <l>When a Lion wi' terrible whiskers appears:</l>
+                  <l>O <hi>Jove</hi> ſaid the Fellow, I ſee the Thief plain,</l>
+                  <l>I'le give you a Bull to remove him again.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>WE often of Heaven our own miſchief require,</hi>
+                  </l>
+                  <l>
+                     <hi>An then 'tis a bleſſing to looſe our deſire.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="41" type="fable">
+               <head>FAB. XLI. <hi>The</hi> Ape <hi>and the</hi> Fox,</head>
+               <lg>
+                  <l>A Lion had iſſued out his Proclamation</l>
+                  <l>All Beaſts without tails muſt go out o' the Na<g ref="char:EOLhyphen"/>tion,</l>
+                  <l>So the Ape was equipt for Perigrination:</l>
+                  <l>But ſtill ſhe was mightily puzled to learn</l>
+                  <l>Why the Fox packt his goods up wi' ſo much concern,</l>
+                  <l>A Fox, ſaies the Ape, has no cauſe to fear,</l>
+                  <l>For he has a tail large enough and to ſpare:</l>
+                  <pb n="48" facs="tcp:60669:29"/>
+                  <l>But ſoon ſhe had anſwer; that, that was all one</l>
+                  <l>If an Abſolute Monarch ſhou'd ſay he had none:</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>NO Innocence can be ſecure from a Flaw,</hi>
+                  </l>
+                  <l>
+                     <hi>Where Tyranny rules, and where humor is Law.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="42" type="fable">
+               <head>FAB. XLII. <hi>The Sick</hi> Kite <hi>and her</hi> Mother.</head>
+               <lg>
+                  <l>SAi's a Languiſhing Kite, Mother give over tears</l>
+                  <l>You'l do me more good if you fall to your prayers:</l>
+                  <l>O Child ſaies the Mother if that is the way,</l>
+                  <l>The Gods will mind little what e're I can ſay:</l>
+                  <l>When e're I wou'd pray, I find my tongue falters,</l>
+                  <l>Alaſs the Gods know I have rob'd all their altars.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>BE grateful, and uſe the kind bleſſings of heaven</hi>
+                  </l>
+                  <l>
+                     <hi>To honour the Pow'r by which they were giv'n,</hi>
+                  </l>
+                  <pb n="49" facs="tcp:60669:29"/>
+                  <l>
+                     <hi>Deride not Religion when healthy and well,</hi>
+                  </l>
+                  <l>
+                     <hi>And then pray and flatter agen when you're ill.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="43" type="fable">
+               <head>FAB. XLIII. <hi>The</hi> Trumpeter.</head>
+               <lg>
+                  <l>A Trumpeter was taken pris'ner a ſtro'lling</l>
+                  <l>And when he was taken he fell a cajoling,</l>
+                  <l>Well Gentlemen this for my ſelf I can ſay,</l>
+                  <l>I ne're was the man that engag'd in a fray:</l>
+                  <l>There's no one among You can ſay I ſuppoſe,</l>
+                  <l>I e're broke ſo much as a ſhin or a noſe:</l>
+                  <l>And therefore I hope you a'n't for inditing</l>
+                  <l>A Perſon that never was guilty o' fighting.</l>
+                  <l>But one of the enemies made this replie,</l>
+                  <l>For that very reaſon he rather ſhou'd die,</l>
+                  <l>That being a Coward, and full o'baſe fears,</l>
+                  <l>He ſet other people together by th' ears.</l>
+               </lg>
+               <lg>
+                  <pb n="50" facs="tcp:60669:30"/>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>SOme Villasnous People uſe all their Invention,</hi>
+                  </l>
+                  <l>
+                     <hi>To make others quarrel and fall to contention:</hi>
+                  </l>
+                  <l>
+                     <hi>Such pitiful ſpirits can baſely deſire,</hi>
+                  </l>
+                  <l>
+                     <hi>To burn a man's houſe, and warm by the fire:</hi>
+                  </l>
+                  <l>
+                     <hi>But he that contrives, does a Villany further</hi>
+                  </l>
+                  <l>
+                     <hi>As much as the hands that are di'd in the murther.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="44" type="fable">
+               <head>FAB. XLIV. <hi>The</hi> Hart <hi>and the</hi> Fountain.</head>
+               <lg>
+                  <l>A Hart in a Fountain ſurveying his Figure,</l>
+                  <l>Was vext at his legs for being no bigger;</l>
+                  <l>Saies he, to my Nature I owe little thanks,</l>
+                  <l>That gave a pair of ſuch thin ſpindle ſhanks:</l>
+                  <l>They look but unſuitable to my fat haunches,</l>
+                  <l>Or to my large horns with agreeable branches:</l>
+                  <l>While thus he was finding o' fault and remarking,</l>
+                  <l>He heard the men hallow, and all the dogs barking:</l>
+                  <pb n="51" facs="tcp:60669:30"/>
+                  <l>Away flies the Hart as ſwift as the wind,</l>
+                  <l>And leaves all the Dogs and the danger behind;</l>
+                  <l>Till hamper'd at laſt by the horns in a wood,</l>
+                  <l>His folly too plainly he then underſtood;</l>
+                  <l>His feet he deſpis'd had preſerv'd him from ruine,</l>
+                  <l>The Horns he had honour'd had been his undoing.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>WE in our true intereſt are ſo ſhort ſighted,</hi>
+                  </l>
+                  <l>
+                     <hi>With what hurts us moſt, we moſt are delighted.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="45" type="fable">
+               <head>FAB. XLV. <hi>The</hi> Sun <hi>and</hi> the North wind.</head>
+               <lg>
+                  <l>THe Sun &amp; North wind who bluſters &amp; ſwaggers</l>
+                  <l>Had quarrel'd &amp; e'ne come to drawing o'daggers;</l>
+                  <l>For <hi>Phaebus</hi> imagin'd he cou'd not ſeem more an aſs</l>
+                  <l>Than by yielding Place to this Bully <hi>Boreas:</hi>
+                  </l>
+                  <l>In ſhort 'twas agreed that each ſhou'd do ſomething,</l>
+                  <l>To ſhow forth his Pow'r upon a Poor Bumpkin:</l>
+                  <pb n="52" facs="tcp:60669:31"/>
+                  <l>And he that cou'd firſt with his cloak make him part,</l>
+                  <l>Shou'd fairly be own'd of the higheſt deſert:</l>
+                  <l>The wind firſt began, and ſo manag'd the matter</l>
+                  <l>That he made the Countrymans grinders to chatter;</l>
+                  <l>The more ſtill he bluſter'd the leſs he cou'd rout him,</l>
+                  <l>The Clown wrapt his cloak the cloſer about him;</l>
+                  <l>But when the Sun came with his fiery Ordeal,</l>
+                  <l>The man was ſo faint that he wanted a cordial:</l>
+                  <l>He melted ſo faſt with the ſplendor Meridian,</l>
+                  <l>That off went the Cloak he was glad to be rid on.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>MEN who to all fury and rage bid defiance,</hi>
+                  </l>
+                  <l>
+                     <hi>Are melted by ſoft eaſie means to compliance.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="46" type="fable">
+               <head>FAB. XLVI. <hi>The</hi> Crab <hi>and the</hi> Serpent.</head>
+               <lg>
+                  <l>A Serpent and Crab made a Friendſhip together,</l>
+                  <l>A Friendſhip to laſt in all kind o'weather;</l>
+                  <pb n="53" facs="tcp:60669:31"/>
+                  <l>The Crab was downright, but plagu'd with heartburn<g ref="char:EOLhyphen"/>ings</l>
+                  <l>To find in the ſerpent ſuch windings and turnings;</l>
+                  <l>This Serpentine dealing ſo much did provoke him,</l>
+                  <l>That one night the Crab took occaſion to choke him:</l>
+                  <l>And viewing his body when life was quite ended,</l>
+                  <l>Which lay now at length in a ſtrait line extended;</l>
+                  <l>Oh had you but liv'd ſo direct and upright,</l>
+                  <l>Old Crony, ſaid he, you ne're ſhou'd ha' dy'd,</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>BY honeſty Foes are to friendſhip invited,</hi>
+                  </l>
+                  <l>
+                     <hi>But treachery ſeparates friends when united.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="46" type="fable">
+               <head>FAB. XLVI. <hi>The Partial</hi> Judge.</head>
+               <lg>
+                  <l>A Farmer once made a Complaint to a Judge,</l>
+                  <l>My Bull and pleaſe you Sir, owing a grudg</l>
+                  <l>Belike, to one of Your good worſhips cattel,</l>
+                  <l>Has ſlain him out right in a mortal battel:</l>
+                  <pb n="54" facs="tcp:60669:32"/>
+                  <l>I'me ſorry at heart becauſe o' the action,</l>
+                  <l>And want to know how to make ſatisfaction:</l>
+                  <l>Why you muſt give me Your Bull, that's plain</l>
+                  <l>Saies the Judge, or pay me the price o' the ſlain:</l>
+                  <l>But I have miſtaken the Caſe ſaies the Clown,</l>
+                  <l>The dead Bull I talk of an't pleaſe you's my own:</l>
+                  <l>The Judg ſoon replies with a ſerious face,</l>
+                  <l>Say you ſo; this Accident alters the caſe.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>MEN greatly delight to have Juſtice ſhown,</hi>
+                  </l>
+                  <l>
+                     <hi>In any ones caſe excepting their own.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="47" type="fable">
+               <head>FAB. XLVII. <hi>The</hi> Ape <hi>and the</hi> Dolphin.</head>
+               <lg>
+                  <l>THE Dolphin they ſay has a ſingular vanity,</l>
+                  <l>Which is to doat very much on humanity,</l>
+                  <l>It chanc't in a Storm a poor frighted Ape,</l>
+                  <l>Was daſht from a ſhip into Sea by miſhap:</l>
+                  <pb n="55" facs="tcp:60669:32"/>
+                  <l>The kind hearted Dolphin to ſuccour him ran,</l>
+                  <l>Suppoſing he had been a ſmall ſort o' man:</l>
+                  <l>The Monkey beſtriding the Fiſh, made appear</l>
+                  <l>The ſeat and addreſs of a good Chevalier;</l>
+                  <l>He rode thrô the ſurges wi' no leſs decorum</l>
+                  <l>Then when the Bears follow, and Apes ride afore 'em:</l>
+                  <l>At laſt cries the Dolphin, my Friend how fare 'ye,</l>
+                  <l>And pray let us hear what Countryman are 'ye;</l>
+                  <l>Why I'me an <hi>Athenian,</hi> the Ape ſtrait replies</l>
+                  <l>For there my Eſtate and my chief dealing lies;</l>
+                  <l>You know then
+<note n="*" place="margin">The name of an Har<g ref="char:EOLhyphen"/>bour.</note> 
+                     <hi>Piraeum? Piraeum</hi> ſaies <hi>John</hi>
+                  </l>
+                  <l>Why he's my Old friend, we were always all one:</l>
+                  <l>Your friend ſay's the Dolphin? then at his devotion</l>
+                  <l>I leave You; your friend's very great with the Ocean:</l>
+                  <l>So ſlipping betwixt the Apes legs with facility,</l>
+                  <l>He left the <hi>Athenian</hi> to ſhow his ability.</l>
+               </lg>
+               <lg>
+                  <pb n="56" facs="tcp:60669:33"/>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>DEceivers are oftentimes left in the Briars,</hi>
+                  </l>
+                  <l>
+                     <hi>For none are ſo odious to all men as liars.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="48" type="fable">
+               <head>FAB. XLVIII. <hi>The</hi> Squire <hi>and his</hi> Dogs.</head>
+               <lg>
+                  <l>AN Old Country Squire lov'd Dogs at his heart,</l>
+                  <l>And he and his Kennel cou'd ne're dwell apart;</l>
+                  <l>But one day his Son by a Villanous hound</l>
+                  <l>Was bit ſo ſeverely, he died o' thê wound;</l>
+                  <l>Which put the old Spark in ſo grievous a paſſion</l>
+                  <l>That on the whole Pack he paſt condemnation;</l>
+                  <l>So Ranger, and Jowler, and Rockwood, and Tra,</l>
+                  <l>Thô harmleſs, were hang'd as they came in the way.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>TOO often we find that one mans impiety,</hi>
+                  </l>
+                  <l>
+                     <hi>Has been the deſtruction of all the Society.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="49" type="fable">
+               <pb n="57" facs="tcp:60669:33"/>
+               <head>FAB. XLIX. <hi>A</hi> Drunkard <hi>and his</hi> Wife.</head>
+               <lg>
+                  <l>A Woman had got ſuch a Sot to her Spouſe,</l>
+                  <l>He ne're-cou'd come home on his legs to his houſe:</l>
+                  <l>'Twas work for the Porters to put him to bed,</l>
+                  <l>In one of theſe fits it came in her head</l>
+                  <l>To coffin him and put him down in a vault,</l>
+                  <l>In hopes ſo to frighten him out of his fault:</l>
+                  <l>He lay there a day, at laſt his wife comes,</l>
+                  <l>And at the Vault door with her knuckles ſhe drums:</l>
+                  <l>Who's there, ſaies Old Soul? Wife anſwers, O ſinner</l>
+                  <l>Departed, I come to invite you to dinner:</l>
+                  <l>Tell me of no dinner replies the good Fellow,</l>
+                  <l>But haſt thou a Crag o' good liquor that's mellow;</l>
+                  <l>Ah Husband cries ſhe, will nothing prevail</l>
+                  <l>To cure this unquenchable Love o' Pot Ale<g ref="char:punc">▪</g>
+                  </l>
+               </lg>
+               <lg>
+                  <pb n="58" facs="tcp:60669:34"/>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>'TIS no eaſie task by reaſon, or ſhame,</hi>
+                  </l>
+                  <l>
+                     <hi>A man long accuſtom'd to vice to reclaim.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="50" type="fable">
+               <head>FAB. L. <hi>The</hi> Bear <hi>and the</hi> Fox.</head>
+               <lg>
+                  <l>SAies a Bear to a Fox, it ne're can be 'ſe'd</l>
+                  <l>I e're was ſo baſe as to prey on the dead;</l>
+                  <l>But yet ſaies the Fox, you deſerve no thankſgiving,</l>
+                  <l>You do what is worſe, for you murther the living.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>A Proud Silly Fellow will tell you a ſtory,</hi>
+                  </l>
+                  <l>
+                     <hi>Which turns to his ſhame, while he aims at his glory.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="51" type="fable">
+               <head>FAB. LI. <hi>The</hi> Gardiner <hi>and his</hi> Dog.</head>
+               <lg>
+                  <l>A Gard'ners Dog by misfortune had fell,</l>
+                  <l>And there he lay ready to drown i'the Well;</l>
+                  <pb n="59" facs="tcp:60669:34"/>
+                  <l>The Gardner needs wou'd aſſiſt the dumb beaſt,</l>
+                  <l>And the Dog in requital bit thrô his hard fiſt:</l>
+                  <l>The Gardner in paſſion cry's, if you're ſo ſtout,</l>
+                  <l>E'ne drown, and for me, let who will take ye out.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>HE ſhows his own Fooliſhneſs, and ill conditions;</hi>
+                  </l>
+                  <l>
+                     <hi>Who hates a true friend for his good admonitions.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="52" type="fable">
+               <head>FAB. LII. <hi>The</hi> Clown <hi>and the</hi> Flies.</head>
+               <lg>
+                  <l>A Clown that was vext with abundance o' Flies,</l>
+                  <l>To drive 'em away with a Firebrand tries;</l>
+                  <l>This while he with wonderful Courage eſſays,</l>
+                  <l>His thatcht Habitation is ſet in a blaze.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>THE Greateſt misfortunes do often befal</hi>
+                  </l>
+                  <l>
+                     <hi>While men are impatient to bear with the ſmall.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="53" type="fable">
+               <pb n="60" facs="tcp:60669:35"/>
+               <head>FAB. LIII. <hi>The</hi> Hound <hi>and other</hi> Dogs,</head>
+               <lg>
+                  <l>A Hound brought a Hare home which he had out<g ref="char:EOLhyphen"/>run,</l>
+                  <l>To ſhow other dogs what a feat he had done;</l>
+                  <l>He Boaſted how juſtly he merited praiſe,</l>
+                  <l>And that they ne're ſaw ſuch a Courſe i' their days;</l>
+                  <l>But while he was bragging and raiſing o' wonder,</l>
+                  <l>The other Dogs all fell aboard of his plunder,</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>A Boaſter no other advantage does gain,</hi>
+                  </l>
+                  <l>
+                     <hi>But envy, or pity for being ſo vain;</hi>
+                  </l>
+                  <l>
+                     <hi>'Tis wiſe to be happy without Proclamation,</hi>
+                  </l>
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>nleſs we wou'd ruine our own expectation.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="54" type="fable">
+               <head>FAB. LIV. <hi>The</hi> Lion <hi>and other</hi> Beaſts.</head>
+               <lg>
+                  <l>THE Lion with ſome other Beaſts of his Nation,</l>
+                  <l>One day went a hunting, for meer recreation:</l>
+                  <pb n="61" facs="tcp:60669:35"/>
+                  <l>They ran down a Hart, and then they expected</l>
+                  <l>In four equal quarters to ſee him diſſected:</l>
+                  <l>The Lion perform'd it, and rolling his eyes,</l>
+                  <l>One part as a King I claim for my prize;</l>
+                  <l>Another Diviſion I think is my merit,</l>
+                  <l>'Cauſe no other Beaſt has ſo noble a ſpirit;</l>
+                  <l>A third part I challenge, and 'tis but ſmall gains</l>
+                  <l>For one that in hunting has took ſo much pains:</l>
+                  <l>The Fourth part is mine too, if any bold Prater</l>
+                  <l>Shall queſtion my right I proclaim he's a Traitor:</l>
+                  <l>The Beaſts ſaid, they all were his ſervants moſt humble,</l>
+                  <l>And made all their honours, not daring to grumble.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>DOn't do your ſelf harm, by aiming to right ye,</hi>
+                  </l>
+                  <l>
+                     <hi>For 'tis a great Folly to ſtrive with the mighty.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="55" type="fable">
+               <pb n="62" facs="tcp:60669:36"/>
+               <head>FAB. LV. <hi>The Dull</hi> Schoolboy.</head>
+               <lg>
+                  <l>A Schoolboy was once ſo dull in his way,</l>
+                  <l>He cou'd not be taught ſo much as great A;</l>
+                  <l>His Schoolfellow jeſted upon his hard skull,</l>
+                  <l>Nay hold ſaies the Youngſter, I am not ſo dull;</l>
+                  <l>But if I learn A which I cou'd ſoon do,</l>
+                  <l>They'l put me to B, C, and all the Croſs row:</l>
+                  <l>Now that will exceedingly trouble my gizard,</l>
+                  <l>For learning of A to be run down to Izard.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>TIS better to enter on no reſolution,</hi>
+                  </l>
+                  <l>
+                     <hi>Then make it and ne're venture on Execution.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="56" type="fable">
+               <head>FAB. LVI. <hi>The</hi> Gnat <hi>and the</hi> Lion.</head>
+               <lg>
+                  <l>SAies a Gnat to a Lion I boldly defie You,</l>
+                  <l>Grim Monarch, whoſe whiskers fright all that come nigh You,</l>
+                  <pb n="63" facs="tcp:60669:36"/>
+                  <l>You may bite like a Woman, and ſcratch like a Cat,</l>
+                  <l>Yet I'le make you dread the Invincible Gnat:</l>
+                  <l>I give you fair warning my force to oppoſe,</l>
+                  <l>Before I begin a Carreer at your noſe:</l>
+                  <l>This ſaid, he the Lion attackt in the ſnout</l>
+                  <l>So ſmartly, the Monarch was fain to roar out;</l>
+                  <l>And ſtriving to ſuccour himſelf with his paws,</l>
+                  <l>He tore his own Phiſnomy with his own claws:</l>
+                  <l>The Gnat having thus the Lion defeated,</l>
+                  <l>Was trapt by a Spider, juſt as ſhe retreated;</l>
+                  <l>And died with regret, that Fate cou'd devize on</l>
+                  <l>No death but to blaſt her freſh Lawrels with poiſon.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>A Slave can revenge if provok't by a King,</hi>
+                  </l>
+                  <l>
+                     <hi>A Spider can poiſon, a Gnat has a ſting;</hi>
+                  </l>
+                  <l>
+                     <hi>There's no one ſo pow'rful, no one ſo brave,</hi>
+                  </l>
+                  <l>
+                     <hi>But may be perplex't by a ſly little knave.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="58" type="fable">
+               <pb n="64" facs="tcp:60669:37"/>
+               <head>FAB. LVII. <hi>The</hi> Axle Tree <hi>and</hi> Oxen.</head>
+               <lg>
+                  <l>A Team of ſtout Oxen were preſs't with a load</l>
+                  <l>Of large heavy Timber they drew on the road,</l>
+                  <l>And much they were fretted, that while they were ſtraining</l>
+                  <l>They heard the ſhrill Axle Tree loudly complaining;</l>
+                  <l>Be ſilent ſay they, You long wooden Lubber,</l>
+                  <l>For nothing of Timber can injure your crupper.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>NO People complain more of Taxes, than they</hi>
+                  </l>
+                  <l>
+                     <hi>Who are moſt ſecure having nothing to pay;</hi>
+                  </l>
+                  <l>
+                     <hi>Thoſe are not devouteſt that uſe the moſt whining,</hi>
+                  </l>
+                  <l>
+                     <hi>Nor thoſe the moſt hurt that are always repining.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="58" type="fable">
+               <head>FAB. LVIII. <hi>The</hi> Dog, Aſs <hi>and</hi> Wolf.</head>
+               <lg>
+                  <l>A Brisk mettled Whelp had a mind to a duel,</l>
+                  <l>He'd needs fight the Wolf for being ſo cruel;</l>
+                  <pb n="65" facs="tcp:60669:37"/>
+                  <l>But fearing he might be to weak for reſiſtance,</l>
+                  <l>He comes to an Aſs and deſires Aſiſtance;</l>
+                  <l>For he had a Back ſtrong enough for a Combat,</l>
+                  <l>His voice too was warlike and much like a Trumpet:</l>
+                  <l>But at the firſt Onſet the Aſs ran away,</l>
+                  <l>And left the Young Maſtive to finiſh the fray.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>IT mocks all the power of Phyſnomy art</hi>
+                  </l>
+                  <l>
+                     <hi>By outward proportion to judge of the heart.</hi>
+                  </l>
+                  <l>
+                     <hi>There's many a beautiful Whore, and a Fool</hi>
+                  </l>
+                  <l>
+                     <hi>Without any ſence in a large Jobber noll.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="59" type="fable">
+               <head>FAB. LIX. <hi>The</hi> Mole <hi>and her</hi> Daughter.</head>
+               <lg>
+                  <l>S Ay's a Mole to her dam, I've cauſe to thank a ſence</l>
+                  <l>That brings thrô my Noſe a ſmell o' frankincence;</l>
+                  <l>A little while after ſhe cries out, alaſs</l>
+                  <l>What a noiſe do I hear of hammering braſs!</l>
+                  <pb n="66" facs="tcp:60669:38"/>
+                  <l>A third time ſhe boaſts ſhe cou'd with her dimn eye</l>
+                  <l>Perceive at a very great diſtance a chimney:</l>
+                  <l>Good Child ſaies the mother e'ne prattle no more,</l>
+                  <l>Two fences You want we ne're heard of before.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>GRent Boaſters their palpable follies reveal,</hi>
+                  </l>
+                  <l>
+                     <hi>Which they by their ſilonce might ſafely conceal.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="60" type="fable">
+               <head>FAB. LX. <hi>The</hi> Aſs <hi>and the</hi> Frogs.</head>
+               <lg>
+                  <l>'TWas the fate of an Aſs that carried a Pack,</l>
+                  <l>To make a falſe ſtep, and fall in a Quag;</l>
+                  <l>He call'd Fortune Slut, and ſaid ſhe was fickle,</l>
+                  <l>To leave a poor Aſs in ſo naſty a Pickle:</l>
+                  <l>The Frogs round about were quickly convented,</l>
+                  <l>And told him he need not be ſo diſcontented;</l>
+                  <l>For he ſcarce had ſuffered one ſhort hours ſoaking,</l>
+                  <l>But they muſt live there eternally croaking.</l>
+               </lg>
+               <lg>
+                  <pb n="67" facs="tcp:60669:38"/>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>'TIS a comfort to one in Afflictions to ſee,</hi>
+                  </l>
+                  <l>
+                     <hi>That others are much more unhappy than he;</hi>
+                  </l>
+                  <l>
+                     <hi>How can we indeed a misfortune deplore</hi>
+                  </l>
+                  <l>
+                     <hi>When much better People ha' ſuffer'd much more.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="61" type="fable">
+               <head>FAB. LXI. <hi>The</hi> Cat <hi>and the</hi> Mice.</head>
+               <lg>
+                  <l>A Politick Cat that made it her trade,</l>
+                  <l>Pickt many a Mouſe up in ſly Ambuſcade;</l>
+                  <l>The Nation was griev'd, that ſo many brave Mice</l>
+                  <l>Shou'd thus looſe their lives and eſtates in a trice:</l>
+                  <l>They call a grave Council whoſe wit ſhou'd determine,</l>
+                  <l>Some means for the beſt Preſervation o' Vermin.</l>
+                  <l>Saies one of the Counſel all things will be well,</l>
+                  <l>If round the Cats neck we cou'd tie but a bell;</l>
+                  <l>Then let the Cat come by night, or by day,</l>
+                  <l>The bell will give warning to ſcamper away;</l>
+                  <pb n="68" facs="tcp:60669:39"/>
+                  <l>That's true ſaid another, but where ſhall be found</l>
+                  <l>A Mouſe that will venture to tie the bell round.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>'TIS eaſie to frame a good bold reſolution,</hi>
+                  </l>
+                  <l>
+                     <hi>But hard is the task that concerns execution:</hi>
+                  </l>
+                  <l>
+                     <hi>For where life and Fortune muſt lie at the ſtake,</hi>
+                  </l>
+                  <l>
+                     <hi>No wiſeman a deſperate counſel will take.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="62" type="fable">
+               <head>FAB. LXII. <hi>The Old</hi> Man <hi>and</hi> Death.</head>
+               <lg>
+                  <l>QUite ſpent with a Burthen of Sticks, an Old Clown</l>
+                  <l>To take breath awhile on a bank ſat him down;</l>
+                  <l>He call'd upon Death and ſaid 'twas a hard caſe,</l>
+                  <l>For him to bear ſticks and an old crazy carcaſs:</l>
+                  <l>While thus he complain'd who but death ſhou'd ap<g ref="char:EOLhyphen"/>pear,</l>
+                  <l>Which made my Old Gaffers teeth chatter wi' fear:</l>
+                  <l>I call'd you ſaies he, M<hi rend="sup">r</hi> Death, in a Maggot,</l>
+                  <l>And now you are here help me up wi' my faggot.</l>
+               </lg>
+               <lg>
+                  <pb n="69" facs="tcp:60669:39"/>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>MEN eaſily Death at a diſtance deſie,</hi>
+                  </l>
+                  <l>
+                     <hi>But tremble like Cowards when ready to die,</hi>
+                  </l>
+                  <l>
+                     <hi>For then the gay ſpirits and brisk idle flaſhes</hi>
+                  </l>
+                  <l>
+                     <hi>Are ſunk, as thorns crackle and fall into aſhes.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="63" type="fable">
+               <head>FAB. LXIII. <hi>The</hi> Gnat <hi>and the</hi> Bee.</head>
+               <lg>
+                  <l>AGnat almoſt ſtarv'd in a ſorry condition,</l>
+                  <l>Pretended to be a moſt skilful Muſician;</l>
+                  <l>He comes to a Bee hive, and there he wou'd ſtay</l>
+                  <l>To teach the Bees children to ſing So la fa:</l>
+                  <l>The Bee told him plainly, the way of their nation</l>
+                  <l>Was breeding up. Youth in ſome honeſt Vocation:</l>
+                  <l>For fear by their labour they ſhou'd not be fed,</l>
+                  <l>And then curſe their Parents for being high bred.</l>
+               </lg>
+               <lg>
+                  <pb n="70" facs="tcp:60669:40"/>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>BAD ſingers, and dancers, and Scholars are made;</hi>
+                  </l>
+                  <l>
+                     <hi>Of thoſe who had better been taught a good trade.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="64" type="fable">
+               <head>FAB. LXIV. <hi>The</hi> Aſs <hi>and the</hi> Nightingale.</head>
+               <lg>
+                  <l>AN Aſs who in Muſick was wonderful choice,</l>
+                  <l>Wou'd challenge a Nightingale for a fine voice;</l>
+                  <l>A Cuckow is Judge to make the deciſion,</l>
+                  <l>The Nightingale warbles a heavenly diviſion:</l>
+                  <l>But ſoon as the Aſs ſet up his loud bray,</l>
+                  <l>The Cuckow was raviſh't and gave him the day.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>WHere Fools are the Judges, a Quacks a Phy<g ref="char:EOLhyphen"/>ſician,</hi>
+                  </l>
+                  <l>
+                     <hi>A Cobler may paſs for a ſhrew'd Politician;</hi>
+                  </l>
+                  <l>
+                     <hi>To bawl makes a Lawyer, and he that can whine</hi>
+                  </l>
+                  <l>
+                     <hi>And poach both his eyes is a heav'nly Divine:</hi>
+                  </l>
+                  <pb n="71" facs="tcp:60669:40"/>
+                  <l>
+                     <hi>Vice triumphs, and Farces affectedly writ</hi>
+                  </l>
+                  <l>
+                     <hi>Are clapt by the dull powder'd Beaux of the Pit.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="65" type="fable">
+               <head>FAB LXV. <hi>The</hi> Old Man <hi>and his</hi> Son <hi>and his</hi> Aſs.</head>
+               <lg>
+                  <l>ONce on a time it by chance came to paſs,</l>
+                  <l>That a Man and his Son were leading an Aſs:</l>
+                  <l>Cries a Paſſenger; Neighbour your ſhrewdly put to't</l>
+                  <l>To lead an Aſs empty and trudg it on foot:</l>
+                  <l>Nay quoth the Old fellow, if folk do ſo mind us</l>
+                  <l>I'le e'ne climb the Aſs, and Boy mount behind us:</l>
+                  <l>But as they jogged on they were laught at and hiſt,</l>
+                  <l>What two Booby lubbers on one ſorry Peaſt!</l>
+                  <l>This is ſuch a figure as never was known,</l>
+                  <l>'Tis a ſign that the Aſs is none of their own.</l>
+                  <l>Then down gets the Boy and walks by the ſide,</l>
+                  <l>Till another cry's, what you Old Fool muſt you ride?</l>
+                  <pb n="72" facs="tcp:60669:41"/>
+                  <l>When you ſee the Poor child that's weakly and young,</l>
+                  <l>Forc't thrô thick and thin to trudg it along:</l>
+                  <l>Then down gets the Father, and up gets the Son,</l>
+                  <l>If this cannot pleaſe 'em we ne're ſhall ha' done;</l>
+                  <l>They had not gone far but a woman cries out,</l>
+                  <l>O you young Graceleſs Imp you'le be hang'd no doubt;</l>
+                  <l>Muſt You ride an Aſs, and your Father that's gray</l>
+                  <l>E'ne foot it and pick out the beſt of his way?</l>
+                  <l>So now to pleaſe all they but one trick lack,</l>
+                  <l>And that was to carry the Aſs a Pickback;</l>
+                  <l>But when that was try'd, it appear'd ſuch a jeſt,</l>
+                  <l>It occaſion'd more laughter by half than the reſt.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>HE who wou'd pleaſe all, and their good liking gain</hi>
+                  </l>
+                  <l>
+                     <hi>Shows a deal of good nature but labours in vain.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="66" type="fable">
+               <pb n="73" facs="tcp:60669:41"/>
+               <head>FAB. LXVI. <hi>The</hi> Devil <hi>and</hi> Sinner.</head>
+               <lg>
+                  <l>A Poor drudging Devil had made a hard ſhift,</l>
+                  <l>To help out a Sinner at many dead lift;</l>
+                  <l>At laſt he came to him wi' very bad news,</l>
+                  <l>He brought at his back a whole bundle o' ſhoes:</l>
+                  <l>All theſe he wore out in running o' ſtages,</l>
+                  <l>And now ſaies he Maſter pray pay me my wages.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>AN ill man can never be truely ſecure</hi>
+                  </l>
+                  <l>
+                     <hi>For vengeance deferr'd falls heavie and ſure.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="67" type="fable">
+               <head>FAB. LXVII. <hi>A</hi> Wolf <hi>and a</hi> Porcupine.</head>
+               <lg>
+                  <l>A Wolf asks a Porcupine why ſtill in armor?</l>
+                  <l>As if ſhe was jealous that ſome one wou'd harm her;</l>
+                  <pb n="74" facs="tcp:60669:42"/>
+                  <l>When e're I come nigh you ſaies he your quills rattle,</l>
+                  <l>As if you were ready to charge in a Battle;</l>
+                  <l>I never wou'd ask if I thought you were vicious,</l>
+                  <l>But now you are honeſt pray why ſo ſuſpicious;</l>
+                  <l>Believe me when Beaſts bear each other good will,</l>
+                  <l>'Tis odd to go fortified all o're with quill;</l>
+                  <l>The Porcupine anſwers, in ſpight of your reaſon</l>
+                  <l>Where Wolv's are, my armor is always in ſeaſon.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>WHen a knave is a friend, we then may divine</hi>
+                  </l>
+                  <l>
+                     <hi>He ſurely is hatching ſome evil deſign;</hi>
+                  </l>
+                  <l>
+                     <hi>But thoſe of all others they ſooneſt deceive,</hi>
+                  </l>
+                  <l>
+                     <hi>Who are moſt by Nature enclin'd to believe.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="68" type="fable">
+               <head>FAB. LXVIII. <hi>The</hi> Snake <hi>and the</hi> Hedghog.</head>
+               <lg>
+                  <l>A Hedghog that was on his journey benighted,</l>
+                  <l>A Snake very kindly to ſhelter invited;</l>
+                  <pb n="75" facs="tcp:60669:42"/>
+                  <l>The Hedghog approv'd of the Lodging ſo well,</l>
+                  <l>The Snake cou'd no more get him out of the cell.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>TAke heed who it is that you take for your friend,</hi>
+                  </l>
+                  <l>
+                     <hi>Leaſt he prove the worſt Foe you have in the end.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="69" type="fable">
+               <head>FAB. LXIX. <hi>The</hi> Worm <hi>and the</hi> Fox.</head>
+               <lg>
+                  <l>FRom a Bank of Green turf his old habitation,</l>
+                  <l>A Worm put his head out, and made Proclama<g ref="char:EOLhyphen"/>tion:</l>
+                  <l>"Let all the Beaſts know, if any one is ſick</l>
+                  <l>"I Worm am by Practice a Doctor o' Phyſick;</l>
+                  <l>"I'me none of your Quacks that are circumforaneous:</l>
+                  <l>"But skil'd by long Travell in Parts Subterraneous:</l>
+                  <l>"Where nature her chymical Art does diſplay,</l>
+                  <l>"Where all the rich juyces and minerals lay:</l>
+                  <l>"I think without vanity I know the powr's</l>
+                  <l>"And vertues lockt up in roots, ſtones or flowr's.</l>
+                  <pb n="76" facs="tcp:60669:43"/>
+                  <l>"I modeſtly ſay I can nature reſtore</l>
+                  <l>"By ſafe eaſie methods unheard of before.</l>
+                  <l>"I've been in ſome places, where Princes wou'd fain</l>
+                  <l>"Have hindred me from coming hither again:</l>
+                  <l>"But I love the Good of my Country and Friends</l>
+                  <l>"Beyond the mean Principle of private ends:</l>
+                  <l>The Fox, who with patience had liſtned awhile</l>
+                  <l>Began wi' ſome ſcorn on the Doctor to ſmile;</l>
+                  <l>And pray ſaies he Sir, if your skills ſo refin'd</l>
+                  <l>How come You your ſelf to be lame and blind</l>
+                  <l>If your're ſuch a Doctor ſhow ſome of your rare tricks</l>
+                  <l>And purge your own Naſtineſs with your Catharticks.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>HE that talks well of Vertue in which he's defective,</hi>
+                  </l>
+                  <l>
+                     <hi>Againſt his own ſelf does but make an invective;</hi>
+                  </l>
+                  <l>
+                     <hi>Such men may harangue with a bantring Oration,</hi>
+                  </l>
+                  <l>
+                     <hi>But few will believe againſt plain demonſtration.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="70" type="fable">
+               <pb n="77" facs="tcp:60669:43"/>
+               <head>FAB. LXX. <hi>The</hi> Woman <hi>and</hi> Death.</head>
+               <lg>
+                  <l>GOod Death ſaid a Woman for once be ſo kind</l>
+                  <l>To take me and leave my dear Husband behind!</l>
+                  <l>But when Death appear'd with a ſowr grimace,</l>
+                  <l>The woman was daſht at his thin hatchet face;</l>
+                  <l>So ſhe made him a Curt'ſie, and modeſtly s'ed</l>
+                  <l>If you come for my Husband he lies thereabed.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>SOme needs will oblige You, and take no denial</hi>
+                  </l>
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>nleſs You're ſo rude as to go to make tryal;</hi>
+                  </l>
+                  <l>
+                     <hi>Such friends can never be ſeen at a diſtance,</hi>
+                  </l>
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>nleſs a time comes when You need their Aſiſtance.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="71" type="fable">
+               <pb n="78" facs="tcp:60669:44"/>
+               <head>FAB. LXXI. <hi>The</hi> Farmer <hi>and his</hi> Dog.</head>
+               <lg>
+                  <l>A Farmer come home, and his Cradle he found</l>
+                  <l>Turn'd quite topſie turvey, the clothes on the ground</l>
+                  <l>He frown'd at his Dog by the Cradle that ſtood,</l>
+                  <l>And ſeeing his mouth ſmear'd over with blood;</l>
+                  <l>He ſtab'd him in anger, without looking further,</l>
+                  <l>He took it for granted his Dog had done murther:</l>
+                  <l>But turning the Cradle he found his miſtake,</l>
+                  <l>The Child was alive, but there lay a dead ſnake,</l>
+                  <l>Which the poor faithful cur, to ſtay a diſaſter,</l>
+                  <l>Had ſlain in defence of his hard hearted Maſter.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>THô haſty revenge be imagin'd a pleaſure,</hi>
+                  </l>
+                  <l>
+                     <hi>A man may ha' time to repent it at leaſure.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="72" type="fable">
+               <pb n="79" facs="tcp:60669:44"/>
+               <head>FAB. LXXII. <hi>The</hi> Lark <hi>and her</hi> Young Ones.</head>
+               <lg>
+                  <l>THE Harveſt was nigh, and the lark was emploi'd</l>
+                  <l>Some victuals for all her young Birds to provide;</l>
+                  <l>And as ſhe went out, Dear Children ſaid ſhe,</l>
+                  <l>If men talk of Corn be ſure you tell me:</l>
+                  <l>Pray mark what I ſay and take care to learn,</l>
+                  <l>For this does our lives and our fortunes concern:</l>
+                  <l>Ah mother ſay they when ſhe came home at night,</l>
+                  <l>Our Landlord has put us all in a ſad fright:</l>
+                  <l>For he has giv'n orders to ſend for his friends,</l>
+                  <l>And with them to morrow to reap he intends:</l>
+                  <l>The Old one replies, we the Reapers defie,</l>
+                  <l>As long as our Landlord on friends ſhall relie:</l>
+                  <l>The next day the Lark went abroad once more,</l>
+                  <l>And left the ſame charge with her Young as before:</l>
+                  <pb n="80" facs="tcp:60669:45"/>
+                  <l>My Landlord perceiving Friends mock expectations,</l>
+                  <l>Son ſaies he, to morrow, go call our Relations,</l>
+                  <l>This ſtory the birds told at night to their mother,</l>
+                  <l>Saies ſhe his Relations will do like the Other:</l>
+                  <l>When all People fail'd him the Farmer ſaid Son,</l>
+                  <l>Let's do it our ſelv's if we'd have the work done:</l>
+                  <l>At this the Old Lark cri'd now there's no tamp'ring</l>
+                  <l>To morrow We all muſt prepare to be ſcamp'ring.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>IN vain from our friends we aſſiſtance expect,</hi>
+                  </l>
+                  <l>
+                     <hi>If we our own ſelv's our own buſineſs neglect;</hi>
+                  </l>
+                  <l>
+                     <hi>In other mens matters that zeal's never ſhown,</hi>
+                  </l>
+                  <l>
+                     <hi>Which People are us'd to expreſs in their own.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="73" type="fable">
+               <head>FAB. LXXIII. <hi>The</hi> Monkey <hi>and</hi> Cat.</head>
+               <lg>
+                  <l>SOme Cheſtnuts in embers did roaſt by the fire,</l>
+                  <l>A Monkey obſerv'd 'em wi' longing deſire;</l>
+                  <pb n="81" facs="tcp:60669:45"/>
+                  <l>But how to come near 'em no method he ſaw,</l>
+                  <l>Becauſe he was fearful of burning his paw;</l>
+                  <l>At laſt catching hold of a Cat that ſat by him,</l>
+                  <l>He poak't with her paw till the Cheſtnuts came nigh him.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>A Sly Politician to gain his own ends,</hi>
+                  </l>
+                  <l>
+                     <hi>Makes bold with his inſtruments which he calls friends.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="74" type="fable">
+               <head>FAB. LXXIV. <hi>The Sick</hi> Lion, Fox <hi>and</hi> Wolf.</head>
+               <lg>
+                  <l>A Lion was very ſick and kept his bed,</l>
+                  <l>The Beaſts came to ſee how his Majeſty did;</l>
+                  <l>No Beaſt was away but the Fox: the Wolf cri'd</l>
+                  <l>The Fox was a Beaſt of ſingular Pride,</l>
+                  <l>He highly preſum'd on his parts and his ſence,</l>
+                  <l>And thought it beneath him to wait on his Prince:</l>
+                  <pb n="82" facs="tcp:60669:46"/>
+                  <l>The Fox hear'd the cloſe of the Wolf's fine oration,</l>
+                  <l>And coming in ſaw that the King was in paſſion,</l>
+                  <l>And therefore ſaid He—I ſee many here</l>
+                  <l>Who full o'concern and condoling appear,</l>
+                  <l>But I have allow'd my ſelf no kind of eaſe</l>
+                  <l>To find out a cure for your Highneſs diſeaſe;</l>
+                  <l>And now I may ſay I've a ſecret of nature</l>
+                  <l>That ſoon will reſtore the moſt languiſhing creature;</l>
+                  <l>The medicine in ſhort which You die if you lack,</l>
+                  <l>Is a Wolfs-skin lai'd hot to your Majeſties back:</l>
+                  <l>The Cure was <hi>probatum,</hi> the Wolf he was fated</l>
+                  <l>To be ſuperficially Excoriated;</l>
+                  <l>You ſee ſaid the Fox while he skin'd him, what labor</l>
+                  <l>I take here to teach you to ſlander your neighbour.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>THey who to do miſchief their buſineſs have made,</hi>
+                  </l>
+                  <l>
+                     <hi>Have by their own ſtratagems oft been betray'd.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="75" type="fable">
+               <pb n="83" facs="tcp:60669:46"/>
+               <head>FAB. LXXV. <hi>The</hi> Wolf <hi>and the</hi> Lamb.</head>
+               <lg>
+                  <l>A Butcherly Wolf that liv'd upon ſlaughter,</l>
+                  <l>For want o'warm blood, was drinking o'water:</l>
+                  <l>But ſpying a Lamb at a diſtance a drinking,</l>
+                  <l>He runs to her and falls a damning and ſinking;</l>
+                  <l>You mean to affront me ſay'd he I ſuppoſe,</l>
+                  <l>By troubling the ſtream wi' your raſcally noſe,</l>
+                  <l>The Lamb anſwer'd modeſtly, ſtrange it did ſeem</l>
+                  <l>How he at ſuch diſtance cou'd trouble the ſtream;</l>
+                  <l>'Twas next to impoſſible to have offended,</l>
+                  <l>But if he had done it he ne're did intend it;</l>
+                  <l>Grant that ſays the Wolf which I need not do,</l>
+                  <l>Yet you did abuſe me ſome ſix month's agoe:</l>
+                  <l>Alaſs ſays the Lamb that cannot be, ſeeing</l>
+                  <l>That Six moneths agoe I was not in being;</l>
+                  <pb n="84" facs="tcp:60669:47"/>
+                  <l>Why then 'twas your Father and that is all one,</l>
+                  <l>For You ought to ſuffer for what he has done.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>A <hi>Miſchievous man that loves to break unity,</hi>
+                  </l>
+                  <l>
+                     <hi>To pick quarrels never need want opportunity.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="76" type="fable">
+               <head>FAB. LXXVI. <hi>The</hi> Man <hi>and his</hi> Aſs.</head>
+               <lg>
+                  <l>SAys a man to his Aſs come let's fly away,</l>
+                  <l>The enemy's coming to plunder they ſay,</l>
+                  <l>Fly you ſays the Aſs, I no enemies fear,</l>
+                  <l>My ſhoulders can carry no more then they'l bear;</l>
+                  <l>My life is ſo ſervile it makes my heart ſteady,</l>
+                  <l>I cannot live worſe than I live here already.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>THE changes of Kingdoms affect not the Poor,</hi>
+                  </l>
+                  <l>
+                     <hi>They lie on the ground and can tumble no lower.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="77" type="fable">
+               <pb n="85" facs="tcp:60669:47"/>
+               <head>FAB. LXXVII. <hi>The</hi> Parrot <hi>and other</hi> Birds.</head>
+               <lg>
+                  <l>THE Cage was of Gold where a Prince kept a Parrot,</l>
+                  <l>A Fortunate Bird, which others did ſtare at;</l>
+                  <l>One day round about him, a whole Congregation</l>
+                  <l>Were gather'd 'twixt envy and admiration;</l>
+                  <l>They'd fain know the reaſon that did him promote</l>
+                  <l>Who was but a Coward dreſt in a gay Coat:</l>
+                  <l>O I, ſays the Parrot, am witty in Prating,</l>
+                  <l>And what the King talks of I'me ſtrait imitating.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>HE in the Court-way is an idle Preſumer</hi>
+                  </l>
+                  <l>
+                     <hi>Who can't pleaſe the Great and flatter their humour,</hi>
+                  </l>
+                  <l>
+                     <hi>A Plain dealing man will ne're earn his wages</hi>
+                  </l>
+                  <l>
+                     <hi>But ſoft oylie Talkers dwell in the fine Cages.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="78" type="fable">
+               <pb n="86" facs="tcp:60669:48"/>
+               <head>FAB. LXXVIII. <hi>The Diſobedient</hi> Son <hi>and his</hi> Child.</head>
+               <lg>
+                  <l>A Baſe Son his Father ſo ill had entreated,</l>
+                  <l>That of his Eſtate the Old Squire was cheated;</l>
+                  <l>And forc't in an Hoſpital to hide his head,</l>
+                  <l>Where other good people ſupply'd him wi' bread;</l>
+                  <l>One day the Old Father his Son chanc't to ſpy,</l>
+                  <l>And call'd to him as he paſt careleſly by;</l>
+                  <l>And one pair of ſheets was all his requeſt,</l>
+                  <l>From him that his plentiful Fortune poſſeſt.</l>
+                  <l>The Son when the Father no more did require,</l>
+                  <l>Was aſham'd to deny ſuch a modeſt deſire;</l>
+                  <l>And calling his Child, here take the ſheets, and Sir,</l>
+                  <l>See that you deliver 'em ſafe to your Granſire:</l>
+                  <l>The Father ſoon heard he deliver'd but one,</l>
+                  <l>And askt the ſmall Varlet why thus he had done?</l>
+                  <pb n="87" facs="tcp:60669:48"/>
+                  <l>Young Graceleſs reply'd, I kept it for you</l>
+                  <l>When Old you may dwell in the Hoſpital too.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>UNmerciful Children, too commonly find</hi>
+                  </l>
+                  <l>
+                     <hi>That Providence pays 'em at laſt in their kind.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="79" type="fable">
+               <head>FAB. LXXIX. <hi>The</hi> Bitch <hi>big with Young.</hi>
+               </head>
+               <lg>
+                  <l>A Big bellied Bitch, in a doleful Condition</l>
+                  <l>To one of her Goſſips made humble Petition;</l>
+                  <l>Good neighbour ſaid ſhe let a kindneſs be done me,</l>
+                  <l>Pray lend me Your Kennel, my pains are upon me;</l>
+                  <l>Yes with all my heart the Goſſip reply'd,</l>
+                  <l>To one in your pickle it can't be deny'd:</l>
+                  <l>But danger once paſt, it was her deſire</l>
+                  <l>She'd take up her puppies and homeward retire;</l>
+                  <l>Good neighbour ſays t'other, lets ſtay ſomewhat longer</l>
+                  <l>Till Puppies can ſee, and grow ſomewhat ſtronger:</l>
+                  <pb n="88" facs="tcp:60669:49"/>
+                  <l>Soon after the Puppies ſo valiant were grown,</l>
+                  <l>That they and the Bitch made the Kennel their own.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>BE prudently kind, ſome ſpeak fair to pleaſe ye</hi>
+                  </l>
+                  <l>
+                     <hi>Who ſoon will abuſe you for being ſo eaſie.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="80" type="fable">
+               <head>FAB. LXXX. <hi>The</hi> Hare <hi>and the</hi> Sparrow.</head>
+               <lg>
+                  <l>AN Eagle had ſeiz'd in her claws a poor Hare,</l>
+                  <l>Who beg'd for her life with many a tear;</l>
+                  <l>A Sparrow ſat by ſaying where is the ſpeed,</l>
+                  <l>You Hares do pretend to, of which you had need?</l>
+                  <l>The name of a Racer will little avail you,</l>
+                  <l>If in time of danger your petty toes fail you.</l>
+                  <l>While thus the Impertinent Sparrow did talk,</l>
+                  <l>Her ſelf unawares was ſeiz'd by the Hawk;</l>
+                  <l>The Hare even dying ſome pleaſure did find,</l>
+                  <l>To ſee the vain Sparrow ſerv'd in the ſame kind.</l>
+               </lg>
+               <lg>
+                  <pb n="89" facs="tcp:60669:49"/>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>THere's no one ſo ready to give his advice</hi>
+                  </l>
+                  <l>
+                     <hi>To others, as he who himſelf is unwiſe.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="81" type="fable">
+               <head>FAB. LXXXI. <hi>The</hi> Fly <hi>and the</hi> Ant.</head>
+               <lg>
+                  <l>SAys a Fly to an Ant I'me a Perſon o' Quality,</l>
+                  <l>And you're a Poltron and full o'Raſcallity;</l>
+                  <l>I fly in the Air with a brave Active ſoul,</l>
+                  <l>You creep on the ground round your ownnaſty hole:</l>
+                  <l>To pilfer mens corn your ſcandalous trade is,</l>
+                  <l>While I live wi' Princes and kiſs the great Ladies:</l>
+                  <l>I always am welcome, thô never invited,</l>
+                  <l>With raviſhing muſick my ars are delighted,</l>
+                  <l>Each day I regale with wine and high diet,</l>
+                  <l>While Grains and fair water ſecure you from riot:</l>
+                  <l>And now a'nt you ſorry that ſtepmother nature</l>
+                  <l>Did ever produce ſuch a poor drudging creature?</l>
+                  <pb n="90" facs="tcp:60669:50"/>
+                  <l>To all this the Ant made a modeſt reply,</l>
+                  <l>I freely confeſs that my birth is not high;</l>
+                  <l>'Tis true you ha' wings to fly up and down,</l>
+                  <l>And I have got feet to walk on the ground.</l>
+                  <l>Secure in the Earth no dangers I dread,</l>
+                  <l>For Tempeſts and Meteors fly over my head;</l>
+                  <l>I live upon corn and water, 'tis true,</l>
+                  <l>But yet am as healthy and happy as You:</l>
+                  <l>But you M<hi rend="sup">r</hi> Fly wou'd not be ſo thriving,</l>
+                  <l>Were You to take pains like me for your living:</l>
+                  <l>You know you are call'd by all you come nigh,</l>
+                  <l>Impertinent, Impudent, Troubleſome Fly:</l>
+                  <l>You're nauſeous confeſt where ever you go,</l>
+                  <l>And yet you pretend to the life of a Beaue:</l>
+                  <l>Becauſe what you taſte is preſently ſcented,</l>
+                  <l>Was that noble Engine the fly flap invented.</l>
+                  <l>Methinks ſuch a thing univerſally hated,</l>
+                  <l>To be proud and ſcornful was never created;</l>
+                  <pb n="91" facs="tcp:60669:50"/>
+                  <l>In Summer you're lewd and drink Sack and Claret,</l>
+                  <l>In Winter you'le ſtarve like a Whore in a Garret.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>IN all Converſation 'tis prudent to wave your</hi>
+                  </l>
+                  <l>
+                     <hi>Faſtidious deportment and lofty behaviour;</hi>
+                  </l>
+                  <l>
+                     <hi>Compariſons odiouſly often are made,</hi>
+                  </l>
+                  <l>
+                     <hi>Which ſmartly and ſhamefully may be repay'd:</hi>
+                  </l>
+                  <l>
+                     <hi>We ſay what we will; and ſcorn to repent it;</hi>
+                  </l>
+                  <l>
+                     <hi>We hear what we wou'd not, and muſt be contented.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="82" type="fable">
+               <head>FAB. LXXXII. <hi>The</hi> Frogs <hi>and the</hi> Sun.</head>
+               <lg>
+                  <l>A Groundleſs report was round the Fens carried,</l>
+                  <l>The Sun was in love and wou'd ſoon be married;</l>
+                  <l>The Frogs fell a croaking in ſad diſmal notes,</l>
+                  <l>
+                     <hi>Jove</hi> askt 'em the reaſon they ſet up their throats:</l>
+                  <l>Say they if one Sun ſo ſcorch our complexion</l>
+                  <l>If more ſhou'd be born we ſhou'd ha' no protection</l>
+                  <pb n="92" facs="tcp:60669:51"/>
+                  <l>So your Majeſties dutiful Subjects the Frogs</l>
+                  <l>Wou'd boyl in the Fens and bake in the Bogs.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>THE world has ſo many bad people, we need</hi>
+                  </l>
+                  <l>
+                     <hi>Deſire to have but few more of the breed.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="83" type="fable">
+               <head>FAB. LXXXIII. <hi>The</hi> Aſs, <hi>the</hi> Ape <hi>and the</hi> Mole.</head>
+               <lg>
+                  <l>Woes me cries an Aſs that e're I was born,</l>
+                  <l>With a brain without wit, and a skull without horn!</l>
+                  <l>But then ſays the Ape a'n't I a poor wretch,</l>
+                  <l>Without e're a tail to cover my breech!</l>
+                  <l>A Mole peeping out, declar'd it was hateful</l>
+                  <l>To hear the complaints of people ungrateful;</l>
+                  <l>You both for a trifle make fooliſh objections,</l>
+                  <l>Thô heav'n freely give you ſo many perfections;</l>
+                  <l>Whereas in a Dungeon I live without ſight,</l>
+                  <l>For ever debarr'd of the glory of Light:</l>
+                  <pb n="93" facs="tcp:60669:51"/>
+                  <l>To me all the Beauties in nature are vain,</l>
+                  <l>And yet you ne're here me repine or complain.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>SHou'd heav'n make a murmurer truly diſtreſt</hi>
+                  </l>
+                  <l>
+                     <hi>He'd know he repin'd ev'n when he was bleſt.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="84" type="fable">
+               <head>FAB LXXXIV. <hi>The</hi> Hee Goats <hi>and</hi> Jupiter.</head>
+               <lg>
+                  <l>THE Hee Goats were vext when firſt it appear'd</l>
+                  <l>Shee Goats had a Patent to wear a long beard,</l>
+                  <l>They mutter'd at <hi>Jove</hi> and thought it not fair</l>
+                  <l>That Shee Goats with Hee Goats for beard ſhou'd compare.</l>
+                  <l>I wonder ſays <hi>Jove</hi> in ſo ſmall a matter</l>
+                  <l>You can't be ſo civil the Ladies to flatter.</l>
+                  <l>For thô as to beard the caſe equal ſtands,</l>
+                  <l>Yet you ha' the pow'r to raiſe the train'd bands.</l>
+                  <l>And ſince 'twixt your courage there is no equality</l>
+                  <l>Pray yield to the weakeſt in dreſs and formality.</l>
+               </lg>
+               <lg>
+                  <pb n="94" facs="tcp:60669:52"/>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>A Man of True worth ne're greev's to be outvied</hi>
+                  </l>
+                  <l>
+                     <hi>By Ignorant People in dreſſing his outſide.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="85" type="fable">
+               <head>FAB. LXXXV. <hi>The Dying</hi> Eagle.</head>
+               <lg>
+                  <l>AN Hungry Eagle that ſat watching Hares</l>
+                  <l>Was with a ſwift arrow ſhot thrô unawares,</l>
+                  <l>It was a great grief juſt as ſhe departed</l>
+                  <l>To look at the arrow with which ſhe was darted;</l>
+                  <l>It ſeems that the ſhaft which the miſchief did bring</l>
+                  <l>Was made up wi' feathers took from her own wing.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>NO little vexation a Perſon attends,</hi>
+                  </l>
+                  <l>
+                     <hi>Who finds thoſe his foes whom he took for his friends;</hi>
+                  </l>
+                  <l>
+                     <hi>Yet thoſe are moſt wretched whoſe miſeries wholly,</hi>
+                  </l>
+                  <l>
+                     <hi>Are owing to nothing elſe but their own folly.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="86" type="fable">
+               <pb n="95" facs="tcp:60669:52"/>
+               <head>FAB. LXXXVI. <hi>The</hi> Fowler <hi>and</hi> Partridge.</head>
+               <lg>
+                  <l>A Partridge inſnar'd beg'd hard for ſome favour,</l>
+                  <l>She'd ſoon pay the Fowler the life that he gave her;</l>
+                  <l>For ſhe cou'd decoy birds of the ſame Feather,</l>
+                  <l>And ſo he might take a whole Covey together;</l>
+                  <l>Nay anſwers the Fowler, a treacherous ſpirit</l>
+                  <l>Scarce merits a ſcandalous life to inherit;</l>
+                  <l>Who'l ſpare a baſe bird, that for private ends</l>
+                  <l>Makes not the leaſt ſcruple to ruine her friends.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>THere's nothing ſo vile or ſo baſe as a traitor,</hi>
+                  </l>
+                  <l>
+                     <hi>Ev'n they who moſt need 'em abhor their ill Na<g ref="char:EOLhyphen"/>ture.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="87" type="fable">
+               <pb n="96" facs="tcp:60669:53"/>
+               <head>FAB. LXXXVII. <hi>The</hi> Pye <hi>and the</hi> Pigeon.</head>
+               <lg>
+                  <l>SAys a Pye to a Pigeon, I can't for my ſoul</l>
+                  <l>Tell a reaſon you allways breed in the ſame hole;</l>
+                  <l>Still in the ſame place your young ones you lay,</l>
+                  <l>From whence 'tother day they were taken away;</l>
+                  <l>The Pigeon replies, 'tis true Mrs Pye,</l>
+                  <l>But I mean no ill nor ſuſpect it not I.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>THE Honeſteſt Natures, are Subject to meet</hi>
+                  </l>
+                  <l>
+                     <hi>And lay the moſt open to lies and deceit;</hi>
+                  </l>
+                  <l>
+                     <hi>For which cauſe the innocent ſeem to be dull,</hi>
+                  </l>
+                  <l>
+                     <hi>But a Knave ſeems a Wit thô e're ſuch a Fool:</hi>
+                  </l>
+                  <l>
+                     <hi>But yet threadbare honeſty's beſt, thô bravery</hi>
+                  </l>
+                  <l>
+                     <hi>And high reputation may wait upon Knavery.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="88" type="fable">
+               <pb n="97" facs="tcp:60669:53"/>
+               <head>FAB. LXXXVIII. <hi>The</hi> Dog <hi>and the</hi> Aſs,</head>
+               <lg>
+                  <l>A Flattring Spaniel, by fawning behaviour</l>
+                  <l>Had got very intimate in his Lords favour;</l>
+                  <l>An Aſs wou'd make tryal of his skill in flattery,</l>
+                  <l>But he was paid home for Aſſault and Battery.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>HE who againſt Nature his Actions will ſtrain,</hi>
+                  </l>
+                  <l>
+                     <hi>Takes care to be laught at, and labours in vain.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="89" type="fable">
+               <head>FAB. LXXXIX. <hi>The</hi> Fox <hi>and</hi> Cock<g ref="char:punc">▪</g>
+               </head>
+               <lg>
+                  <l>THE Fox in a ſnare, and in danger o' life,</l>
+                  <l>Beg'd hard of a Cock to procure him a knife,</l>
+                  <l>The Cock made as if he'd the favour ha' done him,</l>
+                  <l>But calling his Maſter he brought him upon him:</l>
+                  <pb n="98" facs="tcp:60669:54"/>
+                  <l>Now when the Fox ſaw that ſentence muſt paſs,</l>
+                  <l>He reckon'd himſelf an Egregious Aſs;</l>
+                  <l>To think that the Cock wou'd befriend him in diſ<gap reason="illegible" resp="#UOM" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>
+                  </l>
+                  <l>Who oft had rob'd hen rooſts and eaten his miſtre<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>THat perſon a great deal o' weakneſs do's ſho</hi>
+                  </l>
+                  <l>
+                     <hi>Who needs will provoke and then truſt to a</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="90" type="fable">
+               <head>FAB. XC. <hi>The</hi> Mouſe <hi>and the</hi> Frog.</head>
+               <lg>
+                  <l>A Travelling Mouſe wou'd fain paſs a moat,</l>
+                  <l>But cou'd not get over for want of a boat,</l>
+                  <l>At laſt a ſtout Frog, wou'd needs undertake</l>
+                  <l>To carry her over upon his broad back:</l>
+                  <l>And leſt the Mouſe periſh by ſtreſs o' bad weather</l>
+                  <l>He ties his own leg and the Mouſe's together;</l>
+                  <l>But when they had got i' the midſt o' the water</l>
+                  <l>Then down ducks the Frog &amp; draws the Mouſe a</l>
+                  <pb n="99" facs="tcp:60669:54"/>
+                  <l>The Mouſe very earneſtly ſtruggles for life,</l>
+                  <l>Till a Kite in the air obſerving the ſtrife,</l>
+                  <l>Stoops downward, and ſeizes the Mouſe in her claws,</l>
+                  <l>The ſtring at her foot the Frog likewiſe draws,</l>
+                  <l>The Kite eat 'em both, ſo did the Frog find</l>
+                  <l>As little compaſſion as he had deſign'd.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>THe juſtice of heav'n our ill Actions ſurveys,</hi>
+                  </l>
+                  <l>
+                     <hi>And in his own way th' Oppreſſor repays;</hi>
+                  </l>
+                  <l>
+                     <hi>He loves miſchief well, who ventures to do't,</hi>
+                  </l>
+                  <l>
+                     <hi>Thô he ruin's himſelf and his fortune to boot.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="91" type="fable">
+               <head>FAB. XCI. Jupiter <hi>and the</hi> Tortoiſe.</head>
+               <lg>
+                  <l>A Tortoiſe to <hi>Jove</hi> a Petition did make,</l>
+                  <l>To carry her houſe up and down at her back:</l>
+                  <l>To carry your houſe is a toil ſaid the God,</l>
+                  <l>To think it a favour looks wonderful odd:</l>
+                  <pb n="100" facs="tcp:60669:55"/>
+                  <l>Said ſhe, I wi' patience ſubmit to the labour,</l>
+                  <l>To move when I pleaſe from a troubleſome neighbour.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>TO live near a Neighbour that's given to ſtrife,</hi>
+                  </l>
+                  <l>
+                     <hi>Is almoſt as bad as to have an ill Wife.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="92" type="fable">
+               <head>FAB. XCII. <hi>The</hi> Lion <hi>grown Old.</hi>
+               </head>
+               <lg>
+                  <l>AN old weakly Lion whoſe teeth were all gone,</l>
+                  <l>Was pitied by few and was dreaded by none;</l>
+                  <l>The ſurly wild Boar made bold to defie him,</l>
+                  <l>The Bull gor'd his ſides when e're he came nigh him.</l>
+                  <l>He meets e'ry day new affronts and diſgraces,</l>
+                  <l>He's butted by Rams and kickt at by Aſſes;</l>
+                  <l>To bear this with patience he was well contented,</l>
+                  <l>From thoſe he had ever miſus'd or offended:</l>
+                  <l>But thoſe ſort of enemies troubled his ſpirit,</l>
+                  <l>Who once were his friends &amp; prefer'd without merit.</l>
+               </lg>
+               <lg>
+                  <pb n="101" facs="tcp:60669:55"/>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>IN proſperous Fortunes be modeſt and wiſe,</hi>
+                  </l>
+                  <l>
+                     <hi>The greateſt may fall and the loweſt may riſe:</hi>
+                  </l>
+                  <l>
+                     <hi>But Inſolent People that fall in diſgrace,</hi>
+                  </l>
+                  <l>
+                     <hi>Are wretched and no body pities their caſe.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="93" type="fable">
+               <head>FAB. XCIII. <hi>The</hi> Shepherd <hi>and his</hi> Dog.</head>
+               <lg>
+                  <l>A Shepherd was kind to his Dog, and wou'd treat</l>
+                  <l>The Cur ev'ry day with plenty of meat;</l>
+                  <l>This Dog who the Wolf wou'd never connive at,</l>
+                  <l>Himſelf now and then eat a Lamb up in private;</l>
+                  <l>At laſt being found a committing o'murther,</l>
+                  <l>His maſter wou'd kill him, and truſt him no further:</l>
+                  <l>The Dog wou'd fain have his fault to be venial,</l>
+                  <l>And pray'd him in Pity to ſpare an old Menial:</l>
+                  <l>Ne're hope ſays the ſhepherd to 'ſcape, I'le aſſure 'ye</l>
+                  <l>I ſooner wou'd pardon the Wolf in my ſury:</l>
+                  <pb n="102" facs="tcp:60669:56"/>
+                  <l>His hate is profeſt, and he do's not pretend</l>
+                  <l>To treachery under the name of a friend.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>A Man wou'd more favour to enemies uſe,</hi>
+                  </l>
+                  <l>
+                     <hi>Than thoſe who the title o' friendſhip abuſe.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="94" type="fable">
+               <head>FAB. XCIV. <hi>The</hi> Monkey <hi>and</hi> Walnuts.</head>
+               <lg>
+                  <l>A Monkey heard Walnuts extreamly commended,</l>
+                  <l>And of 'em to make a full meal he intended;</l>
+                  <l>To climb the high Tree no ſcruple he made,</l>
+                  <l>For robbing of Orchards had been his old Trade;</l>
+                  <l>There ſitting in ſtate he pulls off a Nut</l>
+                  <l>And bites it, and finds it as bitter as foot;</l>
+                  <l>He ſputters a while, and makes a grimace,</l>
+                  <l>'Tis unripe, a freſh tryal may alter the caſe:</l>
+                  <l>He bites at another, and two or three more,</l>
+                  <l>The laſt ſtill is worſe than he taſted before:</l>
+                  <pb n="103" facs="tcp:60669:56"/>
+                  <l>They nettle his mouth in the higheſt degree,</l>
+                  <l>Is this the rare fruit they talk of ſaid he?</l>
+                  <l>The world ſure is fooliſh or elſe full o' knavery,</l>
+                  <l>For I never taſted a thing ſo unſavoury.</l>
+                  <l>So the pains he had taken in clambring, grudging</l>
+                  <l>He ſlid down the Tree and departed in dudgeon.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>MEN blame ill ſucceſs and fall in a paſſion,</hi>
+                  </l>
+                  <l>
+                     <hi>Whereas the fault lies i' the'r ill application;</hi>
+                  </l>
+                  <l>
+                     <hi>He that can't wi' patience ſome bitterneſs meet,</hi>
+                  </l>
+                  <l>
+                     <hi>Can plead little merit to that which is ſweet.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="95" type="fable">
+               <head>FAB. XCV. <hi>The</hi> Image <hi>to be ſold.</hi>
+               </head>
+               <lg>
+                  <l>A Carver a <hi>Mercury</hi> made out o' wood,</l>
+                  <l>And without a Chapman a long while he ſtood;</l>
+                  <l>At laſt out he brings it and there makes a ſpeech,</l>
+                  <l>Here who'l buy a god that will make a man rich?</l>
+                  <pb n="104" facs="tcp:60669:57"/>
+                  <l>Says one, if You'r god is ſo free of his pelf,</l>
+                  <l>Ne're offer to ſell him but keep him your ſelf.</l>
+                  <l>The Artiſt replies, the God's money's ſure,</l>
+                  <l>But then it comes ſlow, which I can't endure:</l>
+                  <l>If You friend can ſtay, you'l have kindneſs done 'ye</l>
+                  <l>But I am in haſte and want ready money.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>HE that doats on money his friend will betray,</hi>
+                  </l>
+                  <l>
+                     <hi>His God or his Faith all that comes in his way;</hi>
+                  </l>
+                  <l>
+                     <hi>So here he takes pleaſure and has his diverſion,</hi>
+                  </l>
+                  <l>
+                     <hi>He freely reſigns all the world in reverſion.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="96" type="fable">
+               <head>FAB. XCVI. <hi>The</hi> Farmer <hi>and his</hi> Oxen.</head>
+               <lg>
+                  <l>HIS Oxen a Countrey-man came to look after,</l>
+                  <l>And found 'em all very much tickled wi' laugh<g ref="char:EOLhyphen"/>ter;</l>
+                  <l>Demanding the reaſon, we dream't, ſay they, Maſter</l>
+                  <l>Laſt night, that You led us to delicate paſture:</l>
+                  <pb n="105" facs="tcp:60669:57"/>
+                  <l>The Maſter replys, but Dreams often vary,</l>
+                  <l>For I dream't o' Ploughing, and that's quite contrary;</l>
+                  <l>Now as to the Conſequence, I make no doubt</l>
+                  <l>But your Dream will fail you, and mine will be out.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>A Man that relies upon Dreaming and Viſion,</hi>
+                  </l>
+                  <l>
+                     <hi>Diſturbs his own Brain, and occaſions Deriſion.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="97" type="fable">
+               <head>FAB. XCVII. <hi>The</hi> Horſe <hi>and the</hi> Hog.</head>
+               <lg>
+                  <l>A Hog liv'd as well as a Hog wou'd deſire,</l>
+                  <l>And tumbled about at his eaſe in the Mire;</l>
+                  <l>But ſpying a War-horſe equip't for the battle,</l>
+                  <l>He call'd him the Dulleſt of all ſort of Cattle;</l>
+                  <l>For now art thou going thou Fool, ſaid the Hog,</l>
+                  <l>To be ſhot in a skirmiſh and die like a Dog:</l>
+                  <l>To which the Horſe anſwers, I'de rather prefer,</l>
+                  <l>To breathe out my ſoul like a Hero in war,</l>
+                  <pb n="106" facs="tcp:60669:58"/>
+                  <l>Than live in the dirt, and eat naſty Victual,</l>
+                  <l>And ha' my throat cut with a Buttcherly Whittle.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>SOme danger for Honour the Brave will endure</hi>
+                  </l>
+                  <l>
+                     <hi>And hate a Baſe life tho' ere ſo ſecure.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="98" type="fable">
+               <head>FAB. XCVIII. <hi>The</hi> Hawk <hi>and</hi> Cuckow.</head>
+               <lg>
+                  <l>A Hawk very ſharply the Cuckow did blame,</l>
+                  <l>That being like Him, and in Colour the ſame,</l>
+                  <l>He eat mice and worms, a Diet unpleaſant,</l>
+                  <l>Whereas he might feed upon partridge and pheaſant:</l>
+                  <l>Soon after for Pidgeons which he had been mangling,</l>
+                  <l>He ſaw the Hawks carcaſe hang on a tree dangling:</l>
+                  <l>Which as he paſt by the Cuckow derided,</l>
+                  <l>O Hawk you had better have eat worms as I did!</l>
+               </lg>
+               <lg>
+                  <pb n="107" facs="tcp:60669:58"/>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>A Little well gotten will do us more good,</hi>
+                  </l>
+                  <l>
+                     <hi>Then Sceptres and Lordſhips by rapine and blood.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="99" type="fable">
+               <head>FAB. XCIX. <hi>The</hi> Fox <hi>and the</hi> Wolf.</head>
+               <lg>
+                  <l>A Fox in a Well by misfortune did fall,</l>
+                  <l>And 'twas but in vain for aſſiſtance to call;</l>
+                  <l>A Wolf paſſing by came and lookt in his face,</l>
+                  <l>Friend Reynard ſaid he, you're in a fine caſe;</l>
+                  <l>You need not the Hen, nor the Chicken her daughter,</l>
+                  <l>As far as I ſee to make your mouth water,</l>
+                  <l>No Fryar that ſtarves himſelf in a Cell,</l>
+                  <l>Can mortifie better than you in this Well;</l>
+                  <l>But how feels the water, as cool as you'd wiſh?</l>
+                  <l>And what's your chief diet here Frogs or Fiſh?</l>
+                  <l>Well you're young and hardy, Nature can't fail,</l>
+                  <l>Were I there 'twoud make me catch cold in my Tail.</l>
+               </lg>
+               <lg>
+                  <pb n="108" facs="tcp:60669:59"/>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>'TIS cruel to jeſt when a man is in Grief,</hi>
+                  </l>
+                  <l>
+                     <hi>And give him hard language that ſues for Relief;</hi>
+                  </l>
+                  <l>
+                     <hi>Did an Enemy want and never importune,</hi>
+                  </l>
+                  <l>
+                     <hi>Yet a Generous heart wou'd relieve his misfortune,</hi>
+                  </l>
+                  <l>
+                     <hi>But he's an ill Man; and what if he be?</hi>
+                  </l>
+                  <l>
+                     <hi>Show therefore that You a'nt as wicked as he.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="100" type="fable">
+               <head>FAB. C. Momus <hi>and</hi> Jupiter.</head>
+               <lg>
+                  <l>WHen <hi>Momus</hi> that always was for Alteration,</l>
+                  <l>Had long been a carping at all the Creation;</l>
+                  <l>To ſhow him his folly, <hi>Jove</hi> ſummons the Creatures,</l>
+                  <l>And gave 'em free leave to complain o' their Features;</l>
+                  <l>That every Beaſt throughout his Dominion,</l>
+                  <l>Might have a ſhape fram'd to his private Opinion.</l>
+                  <l>When all came before him, he calls to the Ape,</l>
+                  <l>And what fault, ſays he, find you in your Shape;</l>
+                  <pb n="109" facs="tcp:60669:59"/>
+                  <l>Why as to my ſhape, ſays he, Great <hi>Jupiter,</hi>
+                  </l>
+                  <l>I modeſtly ſay that there are few Better;</l>
+                  <l>To mend the compoſure as to Elegancy,</l>
+                  <l>Wou'd very much puzzle the pow'r o' Fancy;</l>
+                  <l>But then as my Body is outwardly ſpecious</l>
+                  <l>So alſo my Wit, I may ſay, is facetious;</l>
+                  <l>If any oppoſe it I'le plainly prove they lie,</l>
+                  <l>Before this moſt honourable Aſſembly:</l>
+                  <l>I wiſh I could ſay but as much for the Bear,</l>
+                  <l>But he is ſo Ugly he makes People ſtare;</l>
+                  <l>His dirty ſhag Trouzers hang down to his Toes,</l>
+                  <l>And frighten the Children wherever he goes:</l>
+                  <l>To which the Bear anſwers, I value no jeſt,</l>
+                  <l>As long as my Figure's as good as the beſt:</l>
+                  <l>I thank my kind Stars I am not ſo ſtupid,</l>
+                  <l>To envy the Beauty of any Quadruped.</l>
+                  <l>But as for the Elephant, I muſt confeſs,</l>
+                  <l>'Twou'd do him a kindneſs to be ſomewhat leſs;</l>
+                  <pb n="110" facs="tcp:60669:60"/>
+                  <l>The loſs of ſome loads of his fleſh, wou'd ſuffice</l>
+                  <l>To bring him perhaps to a moderate ſize;</l>
+                  <l>Methinks he'd doe well to try to prevail,</l>
+                  <l>To have his Ears leſs and a hanſomer Tail.</l>
+               </lg>
+               <lg>
+                  <l>The Elephant ſmil'd at the Bears heavy Skull,</l>
+                  <l>And ſaid his Invention was wonderfull dull;</l>
+                  <l>But he for his part wou'd not trouble his head,</l>
+                  <l>What e're little malapert Animals ſed:</l>
+                  <l>For he had no reaſon to value their ſpight,</l>
+                  <l>Excelling in Beauty as much as in Height.</l>
+                  <l>But yet for the Whale, he was mov'd wi' compaſſion,</l>
+                  <l>For he had a Bulk that requir'd Alteration;</l>
+                  <l>And therefore to <hi>Jove</hi> he made his Petition</l>
+                  <l>To ſet out the Whale in a leſſer Edition.</l>
+               </lg>
+               <lg>
+                  <l>The Whale in a very great paſſion replies,</l>
+                  <l>I never will part with an Inch o' my Size;</l>
+                  <pb n="111" facs="tcp:60669:60"/>
+                  <l>To be the Great Whale was ever my wiſh,</l>
+                  <l>For who'd be a Minnum a Pigmy o' Fiſh:</l>
+                  <l>Whenever, ſays he, I the Piſmire behold,</l>
+                  <l>How little, and yet how induſtrious and bold;</l>
+                  <l>To blame mighty <hi>Jove</hi> I juſtly preſume,</l>
+                  <l>To crowd a great Soul in ſo little a Room.</l>
+               </lg>
+               <lg>
+                  <l>The Piſmire anſwers, I rail not at Fate</l>
+                  <l>Nor am ſuch a Fool to deſire to be Great;</l>
+                  <l>I'me ſtrong in Proportion, and active, and light,</l>
+                  <l>And then I'me a Giant compar'd to the Mite.</l>
+                  <l>In ſhort, <hi>Jove</hi> obſerving no Faults to be mended,</l>
+                  <l>Diſmiſt the Aſſembly, and ſo it was ended.</l>
+               </lg>
+               <lg>
+                  <head>MORAL.</head>
+                  <l>
+                     <hi>TO other mens Faults we allow no Protection,</hi>
+                  </l>
+                  <l>
+                     <hi>But value our ſelves on our own Imperfection.</hi>
+                  </l>
+               </lg>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
